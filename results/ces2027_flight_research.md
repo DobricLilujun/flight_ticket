@@ -18,6 +18,24 @@
 - **Extra benefits**: Priority boarding Zone 3, free standard seat selection, 1 complimentary name change
 - **Extra flights**: Air France adds extra CDG↔LAS flights on Tue/Thu/Sat, Dec 28 – Jan 10, 2027
 
+## 📌 Delta CES 2027 International Flights to LAS (Jan 2027)
+
+| City | Dates | Notes |
+|------|-------|-------|
+| **Hong Kong (HKG)** | Jan 4 inbound, Jan 10 outbound | **NEW nonstop!** |
+| **Taipei (TPE)** | Jan 5 inbound, Jan 10 outbound | **NEW nonstop!** |
+| **Seoul-Incheon (ICN)** | Jan 3–5 inbound, Jan 9–10 outbound | |
+| **Shanghai (PVG)** | Jan 4–5 inbound, Jan 9 outbound | |
+| **Amsterdam (AMS)** | Jan 3–5, Jan 9–10 | |
+| **Paris-CDG (CDG)** | Jan 3–5, Jan 9–10 | |
+| **London-Heathrow (LHR)** | Jan 5, Jan 9 | |
+
+> Delta operates 120+ peak-day flights for CES 2027. Special CES discount available.
+
+## ⚠️ Important Note: Spirit Airlines Ceased LAS Operations (May 2, 2026)
+> Spirit Airlines stopped all Las Vegas service. Budget options may have increased.
+> Fares expected to rise. Check multiple sources for current pricing.
+
 ---
 
 ## Route A: Paris (CDG/ORY) → Las Vegas (LAS) → Paris
