@@ -199,17 +199,20 @@
 | KAYAK | from **$454** | |
 | Expedia | from **$448** one-way, **$714** RT | |
 | CheapFlights | from **$331** | |
+| Brussels Airlines | from **€725** RT | |
+| Skyscanner net | RT from **£535** | |
 | **Segmented (cheapest)** | **~$322 + $243 = ~$565** | BRU→LAS + LAS→Paris |
 
 ### Frankfurt (FRA) → LAS
 | Source | Price | Notes |
 |--------|-------|-------|
-| Condor | from **€319.99** | Cheapest (Feb) |
+| Condor | from **€319.99** one-way | Cheapest! |
+| zbordirect | **€522** non-stop | Discover Airlines |
 | AirHint | **$641** RT | Condor, Jan 17 |
 | KLM | from **€640** | |
 | Swiss | from **€651** | |
 | Discover Airlines | from **€681** | |
-| **Segmented (cheapest)** | **~$320 + $260 = ~$580** | FRA→LAS + LAS→Paris |
+| **Segmented (cheapest)** | **~€320 + $260 = ~€580** | FRA→LAS + LAS→Paris |
 
 ### Amsterdam (AMS) → LAS
 | Source | Price | Notes |
@@ -258,11 +261,7 @@
 | 2 | **Dublin → LAS** | **€476** RT | Secret Flying | **✅ YES** | Non-stop, but from Dublin |
 | 3 | **Paris → LAS → Paris (segmented)** | **$605** | Skyscanner | **⚠️ ~€550** | Depends on exchange rate |
 | 4 | **Brussels → LAS → Paris (segmented)** | **~$565** | Skyscanner + KAYAK | **⚠️ ~€515** | Cheapest from nearby |
-| 5 | **Frankfurt → LAS → Paris (segmented)** | **~$580** | Condor + KAYAK | **⚠️ ~€530** | |
-| 6 | Paris → LAS → Paris (round-trip) | **$673** | KAYAK | ❌ No | $605 with CES discount |
-| 7 | Route B (Paris→NYC→LAS→Paris) | **$678–$958** | | ❌ No | Even with CES discount |
-| 8 | Route C (→China) | **$848–$1,567** | | ❌ No | |
-| 9 | Route D (→Japan→China) | **$975–$1,593** | | ❌ No | |
+| 5 | **Frankfurt → LAS → Paris (segmented)** | **~€580** | Condor + KAYAK | **⚠️ ~€530** | |
 
 ### Key conclusion
 **€500–600 total budget is achievable only for Route A (Paris → LAS → Paris) with:**
