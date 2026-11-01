@@ -98,14 +98,27 @@
 | eDreams | from **€281** | |
 | Virgin Atlantic | from $1,138 | |
 
-### Route B total estimate
+### Paris → NYC pricing
+| Source | Price | Notes |
+|--------|-------|-------|
+| Skyscanner | from **$298** one-way | Cheapest (Paris→NYCA) |
+| Skyscanner | from **$313** one-way | Paris→JFK |
+| Trip.com | from **$310** | |
+| Google Flights | **$367** one-way | Mon Dec 14 |
+| Google Flights | **$467** RT | Jan 14 – Jan 27 (cheapest RT) |
+| KAYAK | from **$392** | |
+| KAYAK | **$523** RT | Icelandair, cheapest RT |
+| KAYAK typical | $579–$812 | RT |
+| Expedia | from **$410** one-way, **$485** RT | |
+
+### Route B total estimate (updated)
 | Segment | Est. Price | Source |
 |---------|-----------|--------|
-| Paris → NYC | $300–$500 | typical |
+| Paris → NYC | $298–$410 | Skyscanner/Trip.com/Expedia |
 | NYC → LAS | $135–$159 | JetBlue |
 | LAS → Paris | $243–$299 | Skyscanner/Expedia |
-| **Total** | **$678–$958** | |
-| **With 10% CES discount** | **~$610–$862** | |
+| **Total** | **$676–$868** | |
+| **With 10% CES discount** | **~$608–$781** | |
 
 ### NYC → LAS flights (Jan 1–6, 2027)
 | Airline | From | Dep | To | Arr | Duration | Date |
@@ -220,11 +233,14 @@
 ## LAS → Bay Area (SFO/OAK) — for Route C/D extension
 | Source | Price | Notes |
 |--------|-------|-------|
+| Skyscanner | from **$20** one-way | Cheapest |
+| Google Flights | **$24** one-way | Wed Dec 2 |
+| Google Flights | **$53** RT | Jan 23 – Jan 24 |
+| Expedia | from **$24** one-way, **$48** RT | |
 | Southwest | from **$69** one-way | |
-| Frontier | from **$23** one-way | Cheapest |
-| Google Flights | from **$55** | January |
-| United | from **$197** RT | |
+| Frontier | from **$23** one-way | |
 | KAYAK | from **$59** | |
+| United | from **$197** RT | |
 
 ---
 
