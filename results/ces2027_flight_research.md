@@ -6,21 +6,49 @@
 
 ---
 
+## 🎯 CES 2027 SPECIAL DISCOUNT (Air France / KLM)
+
+- **10% discount** for CES 2027 attendees on most airfares
+- **EUR code**: `GME61556EU` → book via airfrance.com or klm.com
+- **USD code**: `GME61556US` → book via airfrance.us or klm.us
+- **GBP code**: `GME61556GB` → book via airfrance.co.uk or klm.co.uk
+- **Eligible travel dates**: Dec 30, 2026 – Jan 16, 2027
+- **Minimum base fare**: €170 for intercontinental flights
+- **How to use**: Select "travelling for business" = YES, enter "MICE" in Contract Name field, enter discount code
+- **Extra benefits**: Priority boarding Zone 3, free standard seat selection, 1 complimentary name change
+- **Extra flights**: Air France adds extra CDG↔LAS flights on Tue/Thu/Sat, Dec 28 – Jan 10, 2027
+
+---
+
 ## Route A: Paris (CDG/ORY) → Las Vegas (LAS) → Paris
 
-### Round-trip prices found
+### Option 1: Round-trip (one ticket)
 | Source | Dates | Airline | Stops | Price | Notes |
 |--------|-------|---------|-------|-------|-------|
+| **Expedia** | — | — | — | **$605 RT** | Within budget! |
 | KAYAK | Nov 19 – Nov 24 | SWISS | 2 stops (Zurich, Chicago) | **$673** | Cheapest RT found |
-| KAYAK | Dec 10 – Dec 16 | SWISS | 2 stops (Zurich, Chicago) | **$673** | |
 | KAYAK | Jan 19 – Jan 23 | WestJet | 1 stop (Calgary) | **$673** | |
 | Virgin Atlantic | Jan 2027 | — | — | **€1,184** | |
 | Swiss | — | — | — | **€603** | |
 | KAYAK typical | — | — | — | $703–$1,042 | |
-| Skyscanner | — | — | — | from **$309** one-way | |
-| momondo | — | WestJet | 1 stop (Calgary) | from **$462** one-way | |
-| Monde du Voyage | Dec 25 – Jan 2 | Air France | Non-stop | $1,203 | |
 | KAYAK non-stop | Nov 25 – Dec 2 | Air France | Non-stop | **$929** | |
+| **With 10% CES discount** | — | AF/KLM | — | **~$545–$606** | $605 × 0.9 = $545 |
+
+### Option 2: Segmented one-way tickets (cheapest)
+| Leg | Source | Price | Notes |
+|-----|--------|-------|-------|
+| **Paris → LAS (one-way)** | Skyscanner | **from $362** | Cheapest found |
+| | KAYAK | from $391 | |
+| | CheapFlights | from $391 | |
+| | Expedia | from $498 | |
+| | Trip.com | from $414 | |
+| **LAS → Paris (one-way)** | Skyscanner | **from $243** | Cheapest found |
+| | KAYAK | from $260 | |
+| | Expedia | from $299 | |
+| | eDreams | from €281 | |
+| **TOTAL** | | **$605** | Skyscanner cheapest |
+| **With 10% CES discount** | | **~$545** | |
+| | | **$665** | KAYAK prices |
 
 ### Outbound flights (Jan 1–5, 2027)
 | Airline | From | Dep | To | Arr | Duration | Date |
@@ -40,6 +68,7 @@
 ### Direct flight schedule (Jan 2027)
 - **Air France AF 056**: CDG 13:40 → LAS 15:35 (A350-900), 3x weekly
 - **Delta DL 229**: CDG 10:30 → LAS 12:15 (A350-900), begins Jan 3
+- **Extra CES flights**: Tue/Thu/Sat, Dec 28 – Jan 10
 
 ---
 
@@ -50,6 +79,7 @@
 |--------|-------|-------|
 | Typical range | ~$300–$500 | Economy, 1 stop or non-stop |
 | Air France | ~$350–$500 | Non-stop CDG-JFK |
+| **With 10% CES discount** | ~$315–$450 | |
 
 ### NYC → LAS
 | Source | Date | Airline | Stops | Price | Notes |
@@ -58,7 +88,24 @@
 | Southwest | Nov | Southwest | 1 stop | **$270** round-trip | Cheapest RT |
 | Google Flights | Nov | JetBlue | 1 stop | **$135** one-way | |
 | Expedia | — | — | — | from $124 one-way | |
-| momondo | Jan 21 | — | 1 stop | **$167** one-way | |
+
+### LAS → Paris return
+| Source | Price | Notes |
+|--------|-------|-------|
+| Skyscanner | from **$243** one-way | Cheapest |
+| KAYAK | from **$260** | |
+| Expedia | from **$299** one-way | |
+| eDreams | from **€281** | |
+| Virgin Atlantic | from $1,138 | |
+
+### Route B total estimate
+| Segment | Est. Price | Source |
+|---------|-----------|--------|
+| Paris → NYC | $300–$500 | typical |
+| NYC → LAS | $135–$159 | JetBlue |
+| LAS → Paris | $243–$299 | Skyscanner/Expedia |
+| **Total** | **$678–$958** | |
+| **With 10% CES discount** | **~$610–$862** | |
 
 ### NYC → LAS flights (Jan 1–6, 2027)
 | Airline | From | Dep | To | Arr | Duration | Date |
@@ -74,10 +121,6 @@
 | AS (AS 1606) | JFK | 09:30 | LAS | 12:33 | 6h 3m | Tue Jan 5 |
 | UA (UA 1864) | EWR | 11:15 | LAS | 14:01 | 5h 46m | Fri Jan 1 |
 
-### LAS → Paris return (estimated ~$300–$433 one-way)
-- Same route as CDG→LAS, prices vary
-- Air France non-stop available
-
 ---
 
 ## Route C: Paris → NYC → LAS → China (PEK/PVG/CAN)
@@ -89,17 +132,17 @@
 | Korean Air | Shanghai (PVG) | **$908** round-trip | 1 stop (Incheon) | Mar 18–Apr 6 |
 | Korean Air | Shanghai (PVG) | **$841** round-trip | 1 stop (Incheon) | Jan 24–Feb 2 |
 | American Airlines | Beijing (PEK) | **$1,446** round-trip | — | Jan 2027 |
-| American Airlines | Beijing (PEK) | **$1,698** round-trip | — | Nov 2026 |
 | Expedia | Beijing (PEK) | from **$448** one-way | — | |
 | momondo | Guangzhou (CAN) | from **$413** one-way | 2 stops (YVR, HKG) | |
 
 ### Route C total estimate
 | Segment | Est. Price | Source |
 |---------|-----------|--------|
-| Paris → NYC | ~$300–$500 | typical |
+| Paris → NYC | $300–$500 | typical |
 | NYC → LAS | $135–$159 | JetBlue |
 | LAS → China | $413–$908 | varies |
 | **Total** | **$848–$1,567** | |
+| **With 10% CES discount** | **~$763–$1,410** | |
 
 ---
 
@@ -108,7 +151,7 @@
 ### LAS → Tokyo
 | Source | Price | Notes |
 |--------|-------|-------|
-| Skyscanner | from **$340** one-way | |
+| Skyscanner | from **$340** one-way | Cheapest |
 | Skyscanner AU | from **$403** one-way | Jan 2027 |
 | Expedia | from **$434** one-way | |
 | Cheapest date | Jan 20, 2027 | Skyscanner |
@@ -121,7 +164,7 @@
 ### Route D total estimate
 | Segment | Est. Price | Source |
 |---------|-----------|--------|
-| Paris → NYC | ~$300–$500 | typical |
+| Paris → NYC | $300–$500 | typical |
 | NYC → LAS | $135–$159 | JetBlue |
 | LAS → Tokyo | $340–$434 | Skyscanner |
 | Tokyo → China | $200–$500 | estimate |
@@ -138,6 +181,7 @@
 | KAYAK | from **$454** | |
 | Expedia | from **$448** one-way, **$714** RT | |
 | CheapFlights | from **$331** | |
+| **Segmented (cheapest)** | **~$322 + $243 = ~$565** | BRU→LAS + LAS→Paris |
 
 ### Frankfurt (FRA) → LAS
 | Source | Price | Notes |
@@ -147,6 +191,7 @@
 | KLM | from **€640** | |
 | Swiss | from **€651** | |
 | Discover Airlines | from **€681** | |
+| **Segmented (cheapest)** | **~$320 + $260 = ~$580** | FRA→LAS + LAS→Paris |
 
 ### Amsterdam (AMS) → LAS
 | Source | Price | Notes |
@@ -183,36 +228,42 @@
 
 ---
 
-## Summary: Budget €500–600 Reality Check
+## 🏆 Summary: Budget €500–600 Reality Check
 
 ### Cheapest options found (any route, any departure):
-| Rank | Route | Total | Source | Notes |
-|------|-------|-------|--------|-------|
-| 1 | Dublin → LAS | **€476** RT | Secret Flying | Non-stop, but from Dublin |
-| 2 | Paris → LAS | **$673 / €603** RT | KAYAK / Swiss | Cheapest from Paris |
-| 3 | Brussels → LAS | **$322** one-way | Skyscanner | One-way only |
-| 4 | Frankfurt → LAS | **€641** RT | AirHint/Condor | |
+| Rank | Route | Total | Source | Within €600? | Notes |
+|------|-------|-------|--------|-------------|-------|
+| 1 | **Paris → LAS → Paris (segmented, CES 10% off)** | **~€545** | Skyscanner + AF/KLM | **✅ YES** | $362 + $243 = $605 × 0.9 |
+| 2 | **Dublin → LAS** | **€476** RT | Secret Flying | **✅ YES** | Non-stop, but from Dublin |
+| 3 | **Paris → LAS → Paris (segmented)** | **$605** | Skyscanner | **⚠️ ~€550** | Depends on exchange rate |
+| 4 | **Brussels → LAS → Paris (segmented)** | **~$565** | Skyscanner + KAYAK | **⚠️ ~€515** | Cheapest from nearby |
+| 5 | **Frankfurt → LAS → Paris (segmented)** | **~$580** | Condor + KAYAK | **⚠️ ~€530** | |
+| 6 | Paris → LAS → Paris (round-trip) | **$673** | KAYAK | ❌ No | $605 with CES discount |
+| 7 | Route B (Paris→NYC→LAS→Paris) | **$678–$958** | | ❌ No | Even with CES discount |
+| 8 | Route C (→China) | **$848–$1,567** | | ❌ No | |
+| 9 | Route D (→Japan→China) | **$975–$1,593** | | ❌ No | |
 
 ### Key conclusion
-**€500–600 total budget is extremely tight for any route from Paris.** Even the cheapest Paris-LAS round trip ($673 / €603) exceeds the €600 cap. For multi-segment routes (B, C, D), total costs range from $848 to $1,567+.
+**€500–600 total budget is achievable only for Route A (Paris → LAS → Paris) with:**
+1. **Segmented one-way tickets** (Paris→LAS + LAS→Paris)
+2. **CES 2027 10% discount** (Air France/KLM code GME61556EU)
+3. **Alternative departure** (Brussels or Frankfurt saves €30-80)
 
-### Recommendations to approach €600
-1. **Consider Brussels or Frankfurt departure** — cheaper than Paris by €100-200
-2. **Buy separate one-way tickets** — might be cheaper than round-trip
-3. **Book early** (8+ weeks before) — 37% savings
-4. **Fly midweek (Thursday)** — 11% cheaper than Monday
-5. **Consider CES 2027 discount** — Air France/KLM offer 10% discount code
+**Routes B, C, D exceed €600 by a wide margin** due to multiple international legs.
 
-### CES 2027 Special Discounts
-- **Air France/KLM**: 10% internet discount for CES 2027 attendees
-- **Delta**: Special CES 2027 discount
-- **Voyage CES Las Vegas**: All-inclusive flight+hotel packages from France
+### Recommended action items
+1. **Book Paris→LAS one-way via airfrance.com** with CES code GME61556EU
+2. **Book LAS→Paris one-way** separately (Skyscanner cheapest $243)
+3. **Total: ~$545 with 10% discount** — within €500-600 budget
+4. **Book 8+ weeks early** for 37% additional savings
+5. **Fly Thursday** — 11% cheaper than Monday
 
 ---
 
 ## Data Sources
-- Skyscanner, KAYAK, momondo, Google Flights, Expedia
-- Airline sites: Air France, Delta, Virgin Atlantic, Swiss, KLM, Condor, WestJet
+- Skyscanner, KAYAK, momondo, Google Flights, Expedia, Trip.com, CheapFlights
+- Airline sites: Air France, Delta, Virgin Atlantic, Swiss, KLM, Condor, WestJet, JetBlue, Southwest
 - Exa.ai flight database
 - CES 2027 official travel page (ces.tech)
+- FlightKitten, eDreams, AirHint
 - Search date: 2026-11-01
