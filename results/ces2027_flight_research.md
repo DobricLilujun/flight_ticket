@@ -141,21 +141,23 @@
 ### LAS → China
 | Source | To | Price | Stops | Notes |
 |--------|----|-------|-------|-------|
-| momondo | China (various) | from **$413** one-way | — | Cheapest found |
-| Korean Air | Shanghai (PVG) | **$908** round-trip | 1 stop (Incheon) | Mar 18–Apr 6 |
-| Korean Air | Shanghai (PVG) | **$841** round-trip | 1 stop (Incheon) | Jan 24–Feb 2 |
-| American Airlines | Beijing (PEK) | **$1,446** round-trip | — | Jan 2027 |
-| Expedia | Beijing (PEK) | from **$448** one-way | — | |
-| momondo | Guangzhou (CAN) | from **$413** one-way | 2 stops (YVR, HKG) | |
+| Skyscanner | **Guangzhou (CAN)** | from **$442** one-way | — | Cheapest to China |
+| momondo | China (various) | from **$413** one-way | — | |
+| Expedia | Guangzhou (CAN) | from **$452** one-way, **$861** RT | — | |
+| KAYAK | Guangzhou (CAN) | avg **$525** one-way | — | 18% below typical |
+| Expedia | Beijing (PEK) | from **$464** one-way, **$896** RT | — | |
+| American Airlines | Beijing (PEK) | **$1,446** RT | — | Jan 2027 |
+| Korean Air | Shanghai (PVG) | **$841** RT | 1 stop (ICN) | Jan 24–Feb 2 |
+| Korean Air | Shanghai (PVG) | **$908** RT | 1 stop (ICN) | Mar 18–Apr 6 |
 
 ### Route C total estimate
 | Segment | Est. Price | Source |
 |---------|-----------|--------|
-| Paris → NYC | $300–$500 | typical |
+| Paris → NYC | $298–$410 | Skyscanner/Expedia |
 | NYC → LAS | $135–$159 | JetBlue |
-| LAS → China | $413–$908 | varies |
-| **Total** | **$848–$1,567** | |
-| **With 10% CES discount** | **~$763–$1,410** | |
+| LAS → China (cheapest) | $442 | Skyscanner (CAN) |
+| **Total** | **$875–$1,228** | |
+| **With 10% CES discount** | **~$788–$1,105** | |
 
 ---
 
@@ -169,19 +171,22 @@
 | Expedia | from **$434** one-way | |
 | Cheapest date | Jan 20, 2027 | Skyscanner |
 
-### Tokyo → China (estimate)
-| Source | Price | Notes |
-|--------|-------|-------|
-| Typical | $200–$500 | 1 stop, short route |
+### Tokyo → China (actual pricing)
+| Source | To | Price | Notes |
+|--------|----|-------|-------|
+| Skyscanner | **Beijing** | from **$153** one-way | Cheapest |
+| Skyscanner | **Shanghai** | from **$148** one-way | Cheapest |
+| Skyscanner AU | Beijing (PEK) | from **$388** RT | |
+| Skyscanner net | Beijing | RT from **£208** | |
 
 ### Route D total estimate
 | Segment | Est. Price | Source |
 |---------|-----------|--------|
-| Paris → NYC | $300–$500 | typical |
+| Paris → NYC | $298–$410 | Skyscanner/Expedia |
 | NYC → LAS | $135–$159 | JetBlue |
 | LAS → Tokyo | $340–$434 | Skyscanner |
-| Tokyo → China | $200–$500 | estimate |
-| **Total** | **$975–$1,593** | |
+| Tokyo → China (cheapest) | $148 | Skyscanner (Shanghai) |
+| **Total** | **$921–$1,143** | |
 
 ---
 
