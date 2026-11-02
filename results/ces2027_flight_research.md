@@ -2,6 +2,16 @@
 ## Budget: €500–600 total economy class | Window: Jan 2027
 ## Search date: 2026-11-01 | Tools: Skyscanner, KAYAK, momondo, Google Flights, Expedia, airline sites, Exa
 
+## ⚠️ CRITICAL PRICING CAVEAT (verified 2026-11-01)
+**The "starting prices" shown by aggregators are NOT for the CES dates.**
+- Skyscanner $362 one-way → for **Jan 14**, NOT Jan 3–5
+- KAYAK $673 RT (WestJet) → for **Jan 19–23 departure**, NOT Jan 3–5
+- KAYAK $700 RT (JetBlue LAS→PAR) → for **Jan 15–23**, close but not exact
+- KAYAK $326 RT (JFK→LAS) → for **Dec 5–12**, NOT January
+- **For exact Jan 3–5 / Jan 19–23 pricing, you MUST search specific dates on KAYAK/Skyscanner/Google Flights**
+- January is the cheapest month for LAS→PAR ($634 RT avg per KAYAK), which is good news
+- The realistic range for Jan 3–5 → Jan 19–23 is likely **$700–$900 RT** or **$550–$800 segmented**
+
 ---
 
 ## 🎯 CES 2027 SPECIAL DISCOUNT (Air France / KLM)
@@ -43,26 +53,42 @@ Budget options may have increased. Check multiple sources for current pricing.
 
 ## Route A: Paris (PAR/CDG/ORY) → LAS → Paris
 
-### Option 1: Segmented one-way tickets (RECOMMENDED — only option within €600)
-| Leg | Airline | From | To | Date | Dep | Arr | Stops | Price | Source | Link |
-|-----|---------|------|----|----|-----|-----|-------|-------|--------|------|
-| **Paris → LAS** | Air France / KLM | CDG | LAS | Jan 3–5 | 10:45 | 13:10 | **Non-stop** | **~€362** (with 10% CES off: **~€326**) | Skyscanner | [link](https://www.skyscanner.com/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html) |
-| | Delta | CDG | LAS | Jan 3 | 10:30 | 12:15 | **Non-stop** | ~€391 | KAYAK | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
-| **LAS → Paris** | — | LAS | CDG | Jan 19–23 | — | — | 1 stop (Calgary) | **~€243** (with 10% CES off: **~€219**) | Skyscanner | [link](https://www.skyscanner.com/routes/lasa/pari/las-vegas-to-paris.html) |
-| | WestJet | LAS | CDG | Jan 19–23 | — | — | 1 stop | ~€299 | Expedia | [link](https://www.expedia.com/lp/flights/las/cdg/las-vegas-to-paris) |
-| **TOTAL (no discount)** | | | | | | | | **~€605** | | |
-| **TOTAL (with CES 10% off)** | | | | | | | | **~€545** | | |
+### ✅ VERIFIED PRICES (from KAYAK/momondo, with dates and links)
 
-### Option 2: Round-trip one ticket
-| Airline | From | To | Depart | Return | Stops | Price | With 10% CES | Source | Link |
-|---------|------|----|--------|--------|-------|-------|-------------|--------|------|
-| **SWISS** | CDG | LAS | Nov 19 | Nov 24 | 2 (Zurich, Chicago) | **$673** | ~$606 | KAYAK | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
-| **WestJet** | CDG | LAS | Jan 19 | Jan 23 | 1 (Calgary) | **$673** | ~$606 | KAYAK | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
-| **Air France** | CDG | LAS | — | — | Non-stop | **€849** | ~€764 | Air France | [link](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-las-vegas) |
-| **Google Flights** | PAR | LAS | Jan 16 | Jan 29 | — | **$590** | ~$531 | Google | [link](https://www.google.com/travel/flights/flights-from-paris-to-las-vegas.html) |
-| **Virgin Atlantic** | CDG | LAS | Jan 2027 | — | — | **€1,184** | ~€1,066 | Virgin | [link](https://flights.virginatlantic.com/en-fr/flights-from-paris-to-las-vegas) |
+| Type | Airline | Dates | Stops | Price | Source | Link |
+|------|---------|-------|-------|-------|--------|------|
+| **RT cheapest** | SWISS/WestJet | Nov 19–24 | 2 stops (Zurich/Chicago) | **$673** | KAYAK | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
+| **RT** | WestJet | Jan 19–23 | 1 stop (Calgary) | **$673** | KAYAK | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
+| **RT** | JetBlue | Jan 15–23 | 1 stop (JFK) | **$700** | KAYAK LAS→PAR | [link](https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Paris-PAR) |
+| **RT non-stop** | Air France | — | Non-stop | **$929** | KAYAK | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
+| **RT** | Air France | Nov 25–Dec 9 | 1 stop (JFK) | **$1,052** | KAYAK LAS→PAR | [link](https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Paris-PAR) |
+| **RT** | Delta | Jan 7–20 | Non-stop | **$1,079** | KAYAK LAS→PAR | [link](https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Paris-PAR) |
+| **One-way cheapest** | — | any date | 1 stop | **$369** | KAYAK CDG→LAS | [link](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
+| **One-way avg** | — | — | — | **~$433** | KAYAK | |
+| **One-way cheapest (return)** | — | any date | 1 stop | **$260** | KAYAK LAS→PAR | [link](https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Paris-PAR) |
+| **One-way avg (return)** | — | — | — | **~$539** | KAYAK | |
+| **Skyscanner cheapest 1-way** | WestJet | **Jan 14** | indirect | **$362** | Skyscanner | [link](https://www.skyscanner.com/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html) |
+| **Expedia RT** | — | "next month" | — | **$605** | Expedia | [link](https://www.expedia.com/lp/flights/cdg/las/paris-to-las-vegas) |
+| **Air France RT** | AF | — | Non-stop | **€849** | Air France | [link](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-las-vegas) |
 
-> ⚠️ Google Flights $590 RT is promising but dates are Jan 16-29 (misses CES Jan 6-9). Must be Jan 3-5 departure.
+### Key Insights from KAYAK (verified)
+- **Typical RT price**: $703–$1,042 (CDG→LAS)
+- **January is the cheapest month**: RT avg $634 (LAS→PAR), 30% price drop
+- **Cheapest day**: Thursday (11% cheaper than Sunday)
+- **Book 6–8+ weeks ahead**: saves 22–37%
+- **One-way avg**: $433 (CDG→LAS, 36% below typical), $539 (LAS→PAR)
+- **Cheapest non-stop**: Air France (CDG→LAS), Delta (LAS→CDG)
+- **Only 2 airlines non-stop**: Air France, Delta (both CDG↔LAS)
+
+### ⚠️ For YOUR specific dates (Jan 3–5 departure, Jan 19–23 return):
+| Scenario | Estimated Price | Basis |
+|----------|----------------|-------|
+| **Segmented 1-way** (CDG→LAS + LAS→CDG) | **~$700–$950** | KAYAK one-way avg $433 + $539 = $972; cheapest $369 + $260 = $629 |
+| **Through-ticket RT** | **~$700–$1,042** | KAYAK typical range; Jan 15-23 JetBlue $700 is closest match |
+| **With CES 10% off (AF/KLM only)** | **~$630–$940** | 10% off AF/KLM leg only; return leg gets no discount |
+| **Cheapest possible** | **~$630** | KAYAK WestJet RT $630 (but Nov dates, not Jan 3-5) |
+
+> **Reality check**: The $545 total I previously reported was based on "starting prices" ($362 + $243) that are NOT for Jan 3–5 / Jan 19–23. The realistic range is **$700–$950** for segmented, **$700–$1,042** for through-ticket. **€600 budget is very tight and may not be achievable for CES dates.**
 
 ---
 
@@ -151,59 +177,124 @@ Budget options may have increased. Check multiple sources for current pricing.
 
 # 🏆 FINAL RECOMMENDATION
 
-## Only 2 options fit €500–600 budget:
+## ⚠️ REALISTIC ASSESSMENT (verified 2026-11-01)
 
-### 1️⃣ Route A: Paris → LAS → Paris (segmented + CES 10% off) — **~€545**
-| Step | Action | Price |
-|------|--------|-------|
-| 1 | Book Paris→LAS one-way via airfrance.com with code `GME61556EU` | ~€326 |
-| 2 | Book LAS→Paris one-way separately (cheapest on Skyscanner) | ~€243 |
-| **3** | **TOTAL** | **~€545** |
-- ✅ Within €500–600 budget
-- ✅ Arrives LAS by Jan 3–5 (before CES Jan 6–9)
-- ✅ ~14 days in US
-- ⚠️ Segmented tickets = no protection if one leg is cancelled
-- ⚠️ Checked baggage may need to be added separately (check fare conditions)
+### The €500–600 budget is very tight for CES 2027 dates
 
-### 2️⃣ Dublin → LAS (round-trip) — **€476**
-| Step | Action | Price |
-|------|--------|-------|
-| 1 | Fly from Dublin (not Paris) | €476 RT |
-| **2** | **TOTAL** | **€476** |
-- ✅ Within €500–600 budget
-- ✅ Non-stop flight
+**What we can verify with links:**
+| Option | Price | Source | Date Match? |
+|--------|-------|--------|------------|
+| KAYAK cheapest RT (WestJet) | **$673** | [KAYAK](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) | ❌ Jan 19 departure, not Jan 3–5 |
+| KAYAK JetBlue RT (LAS→PAR) | **$700** | [KAYAK](https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Paris-PAR) | ⚠️ Jan 15 departure, close |
+| KAYAK typical RT range | **$703–$1,042** | [KAYAK](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) | ✅ January is cheapest month |
+| KAYAK one-way avg | **$433 + $539 = $972** | [KAYAK](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) | ❓ Not date-specific |
+| Skyscander $362 one-way | **$362** | [Skyscanner](https://www.skyscanner.com/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html) | ❌ For Jan 14, NOT Jan 3–5 |
+| Expedia RT | **$605** | [Expedia](https://www.expedia.com/lp/flights/cdg/las/paris-to-las-vegas) | ❓ "Starting" price |
+| Air France RT | **€849** | [Air France](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-las-vegas) | ❓ Non-specific |
+
+### Best realistic scenarios for Jan 3–5 departure / Jan 19–23 return:
+
+| Scenario | Price | Within €600? |
+|----------|-------|-------------|
+| Through-ticket RT (cheapest) | ~$673–$700 | ⚠️ Borderline (≈€610–635) |
+| Through-ticket RT (typical) | ~$700–$1,042 | ❌ Over budget |
+| Segmented (cheapest 1-way) | ~$629 | ⚠️ Borderline |
+| Segmented (avg 1-way) | ~$972 | ❌ Way over |
+| With CES 10% (AF only leg) | ~$630–$940 | ❌ Mostly over |
+
+### Dublin → LAS RT — **€476** (cheapest verified)
+| Source | Price | Link |
+|--------|-------|------|
+| Secret Flying | €476 RT | [link](https://www.secretflying.com/posts/dublin-ireland-to-las-vegas-usa-for-only-e387-roundtrip/) |
 - ⚠️ Requires flying from Dublin, not Paris
-- ⚠️ Extra cost to get to Dublin from Paris
+- ⚠️ Extra cost to get to Dublin from Paris (~€50–100)
 
 ---
 
-## Routes B, C, D — All Over Budget
-| Route | Cheapest Total | Over by |
-|-------|---------------|--------|
-| B (Paris→NYC→LAS→Paris) | $676 | +$100–$360 |
-| C (→China) | $875 | +$280–$630 |
-| D (→Japan→China) | $921 | +$320–$540 |
+## Routes B, C, D — All Over €600 Budget
+| Route | Cheapest Verified | Source | Over by |
+|-------|------------------|--------|--------|
+| B (Paris→JFK→LAS→Paris) | $524 + $326 + $700 = **$1,550 RT** | KAYAK CDG→JFK + JFK→LAS + LAS→PAR | +$950+ |
+| B (segmented) | $298 + $159 + $243 = **$676** | Skyscanner (starting prices) | +$100–360 |
+| C (→China) | **$875–$1,228** | Skyscanner/Expedia | +$280–630 |
+| D (→Japan→China) | **$921–$1,143** | Skyscanner/Expedia | +$320–540 |
 
 ---
 
 ## ⚠️ Important Caveats
-1. **Prices are indicative** — must be re-verified at booking time
-2. **CES 2027 discount** may not apply to all fare types
+1. **"Starting prices" are NOT for your dates** — $362 is for Jan 14, $673 is for Jan 19, $326 is for Dec 5–12
+2. **CES 2027 discount only applies to AF/KLM-operated flights** — NOT to WestJet/JetBlue/Delta return legs
 3. **Checked baggage** may need to be added separately (not included in base fare)
 4. **Spirit Airlines ceased LAS service** (May 2026) — budget options may be higher
 5. **Segmented tickets** have no protection if one leg is cancelled
 6. **Exchange rate** varies: $605 ≈ €550–580 depending on USD/EUR rate
-7. **Book 8+ weeks early** for additional 37% savings (KAYAK data)
-8. **Fly Thursday** — 11% cheaper than Monday
+7. **Book 6–8+ weeks early** for 22–37% savings (KAYAK data)
+8. **January is the cheapest month** for LAS→PAR ($634 RT avg, 30% below peak)
+9. **Thursday is cheapest day** — 11% cheaper than Sunday
+10. **CES 10% discount** may reduce AF/KLM leg by ~$40–50 but NOT the return leg
+
+---
+
+## ✅ VERIFIED KAYAK DATA (fetched 2026-11-01)
+
+### CDG→LAS (Paris to Las Vegas)
+| Metric | Value | Source |
+|--------|-------|--------|
+| Cheapest RT | $673 (WestJet, Jan 19–23, 1 stop via Calgary) | [KAYAK](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS) |
+| Typical RT | $703–$1,042 | KAYAK |
+| Cheapest non-stop RT | $929 (Air France) | KAYAK |
+| Typical non-stop | $862–$1,181 | KAYAK |
+| One-way avg | ~$433 (36% below typical) | KAYAK |
+| One-way cheapest | $369 | KAYAK |
+| Cheapest month | January | KAYAK |
+| Book in advance | 8+ weeks (37% savings) | KAYAK |
+| Non-stop airlines | Air France, Delta (avg 11h 22m) | KAYAK |
+
+### LAS→PAR (Las Vegas to Paris)
+| Metric | Value | Source |
+|--------|-------|--------|
+| Cheapest RT | $630 (WestJet, Nov 18–Dec 2, 1 stop via Calgary) | [KAYAK](https://www.kayak.com/flight-routes/Las-Vegas-McCarran-LAS/Paris-PAR) |
+| Typical RT | $750–$1,111 | KAYAK |
+| Cheapest non-stop RT | $1,079 (Delta, Jan 7–20) | KAYAK |
+| Typical non-stop | $909–$1,279 | KAYAK |
+| One-way avg | ~$539 (6% below typical) | KAYAK |
+| One-way cheapest | $260 | KAYAK |
+| Cheapest month | January ($634 RT avg, 30% drop) | KAYAK |
+| Book in advance | 6+ weeks (22% savings) | KAYAK |
+| Non-stop airlines | Air France, Delta (avg 10h 27m) | KAYAK |
+| JetBlue RT (Jan 15–23) | $700 (1 stop via JFK) | KAYAK |
+
+### CDG→JFK (Paris to New York — for Route B)
+| Metric | Value | Source |
+|--------|-------|--------|
+| Cheapest RT | $524 (AA/AF, 1 stop via Madrid/LHR) | [KAYAK](https://www.kayak.com/flight-routes/Paris-PAR/New-York-John-F-Kennedy-Intl-JFK) |
+| Typical RT | $579–$812 | KAYAK |
+| Cheapest non-stop RT | $524 (Air France, Jan 25–31) | KAYAK |
+| One-way cheapest | $389 | KAYAK |
+| Cheapest month | March ($584 RT) | KAYAK |
+
+### JFK→LAS (New York to Las Vegas — for Route B)
+| Metric | Value | Source |
+|--------|-------|--------|
+| Cheapest RT | $326 (JetBlue, Dec 5–12, non-stop) | [KAYAK](https://www.kayak.com/flight-routes/New-York-John-F-Kennedy-Intl-JFK/Las-Vegas-McCarran-LAS) |
+| Typical RT | $299–$523 | KAYAK |
+| January RT avg | $320 (cheapest month) | KAYAK |
+| One-way cheapest | $172 | KAYAK |
+| One-way avg | ~$183 (14% below typical) | KAYAK |
+| JetBlue RT (Jan 13–19) | $326 (non-stop) | KAYAK |
+| Non-stop airlines | Delta, JetBlue, AA, Alaska (avg 5h 56m) | KAYAK |
 
 ---
 
 ## Data Sources & Search Method
-- **Tools**: Skyscanner, KAYAK, momondo, Google Flights, Expedia, Trip.com, CheapFlights, airline sites, Exa
+- **Tools**: Skyscanner, KAYAK, momondo, Google Flights, Expedia, Trip.com, CheapFlights, airline sites, Exa, DuckDuckGo
 - **Search date**: 2026-11-01
 - **Routes searched**: A (Paris→LAS→Paris), B (Paris→NYC→LAS→Paris), C (→China), D (→Japan→China)
 - **Alternative airports**: Brussels, Frankfurt, Amsterdam, Rome, Dublin
 - **Date rolling**: Jan 1–7, 2027 (±3 days around CES dates)
 - **Cross-comparison**: 5+ sources per route
+- **KAYAK pages fetched**: CDG→LAS, LAS→PAR, CDG→JFK, JFK→LAS — all with detailed pricing
+- **Skyscanner**: $362 is for Jan 14 (NOT Jan 3–5); cheapest day is Jan 26
 - **LetsFG**: MCP connected but requires payment setup (https://letsfg.co/connect) — not usable without human approval
-- **CES 2027 discount**: 10% code GME61556EU (Air France/KLM)
+- **CES 2027 discount**: 10% code GME61556EU (Air France/KLM) — only applies to AF/KLM-operated flights
+- **⚠️ Price verification status**: KAYAK/momondo prices are verified for listed dates; Skyscanner/Expedia "starting prices" are NOT for specific dates and must be re-verified on the booking platforms
