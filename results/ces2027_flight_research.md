@@ -224,6 +224,58 @@ Split vs through: FRA-out split £364+£221=£585 vs through £548 → **through
 
 ---
 
+## 📊 FULL GRID — deadline-compliant (arrive LAS before Jan 5), nonstop OR connections, live-verified 2026-11-02
+
+### Round trips by departure date (Skyscanner live scrape; £1 ≈ €1.16)
+| Depart | Arrive LAS | Return | Origin | Lowest RT | ≈EUR | Itinerary |
+|--------|-----------|--------|--------|-----------|------|-----------|
+| **Dec 31 (Thu)** | **Dec 31 20:06** | Jan 16 | **FRA** | **£548–549** 🥇 | **€636** | AA via CLT + BA via LHR |
+| **Dec 24 (Thu)** | **Dec 24 20:26** | Jan 16 | CDG | **£564** 🥈 | **€654** | AA via PHL + BA |
+| **Dec 31 (Thu)** | **Dec 31 20:26** | Jan 16/17/20 | CDG | **£564** 🥈 | **€654** | AA via PHL + BA |
+| Dec 24 | Dec 25 00:34 | Jan 16 | FRA | £574 | €666 | United via SFO + UA/LH |
+| Dec 26 (Sat) | Dec 26 22:34 | Jan 18 | CDG | £606 | €703 | AA via PHL |
+| Dec 28 (Mon) | Dec 28 23:15 | Jan 20 | CDG | £610 | €708 | AA via PHL |
+| Dec 25 | Dec 25 | Jan 18 | CDG | £631 | €732 | United via ORD |
+| Dec 31 | Dec 31 20:13 | Jan 16 | BRU | £646 | €749 | United via EWR + ORD |
+| Dec 31 | Dec 31 20:26 | Jan 16 | AMS | £731 | €848 | AA via PHL |
+| Dec 29 | Dec 29 | Jan 16 | CDG | £737 | €855 | Delta via SLC |
+| Dec 30 | Dec 30 | Jan 17 | CDG | £739 | €857 | AF nonstop out |
+| Jan 2 | Jan 3 13:40 | Jan 19 | CDG | £738 | €856 | AF+Virgin |
+| Jan 4 | Jan 4 23:15 | Jan 21 | CDG | £752–756 | €877 | AA |
+| Jan 3 (Sun) | Jan 3 20:25 | Jan 20 | CDG | £793 | €920 | AF+Virgin via LHR |
+| Jan 2 | Jan 2 | Jan 16 | CDG | £798 | €925 | AF+Virgin |
+| Jan 3 | Jan 3 | Jan 20 | BRU | £912 | €1,058 | United via ORD |
+| Jan 3 | Jan 3 12:15 | Jan 20 | CDG **nonstop** | £911–1,039 | €1,057–1,205 | **DL229** + AF nonstop |
+| Jan 3 | Jan 3 | Jan 20 | AMS | £1,029 | €1,193 | KLM+Virgin |
+| Jan 3 | Jan 3 | Jan 20 | FRA | £1,085 | €1,258 | United via ORD |
+
+**Pattern: Thursday AA departures (Dec 24 & Dec 31, CDG 13:30→LAS 20:26 same-day) = the £564 sweet spot. CES-adjacent days (Jan 2–4) cost +£170–250.**
+
+### One-way daily calendars (Skyscanner month view, live)
+**CDG→LAS (out):** Dec: 20 £453 · 21 £428 · 22 £425 · 23 £419 · **24 £386** · 25 £388 · 26 £444 · 27 £494 · 28 £444 · 29 £471 · 30 £469 · **31 £381** | Jan: 1 £496 · 2 £498 · **3 £615 (CES spike)** · 4 £394 · 5 £381 · 6 £377 · 7 £366 · 8 £294
+**LAS→CDG (return, Jan):** 4 £242 · 5 £227 · 6 £216 · 7 £222 · 8 £216 · 9 £269 · 10 £223 · 13 £218 · 15 £206 · **16 £204** · 17 £208 · 18 £231 · **20 £204** · 21 £215 · 22 £228 · 23 £260
+
+Split (out+back separately): best deadline combo = CDG Dec 31 £381 + Jan 16 £204 = £585 — **through-ticket £564 still wins**.
+
+### Discount overlays on the top fares
+- FRA Dec 24 United £574 → book on united.com with **CES code ZSQG464210** → est. **£515–545 ≈ €600–632** — closest shot at €600
+- Delta/KLM £678 fares → book on klm.com with **GME61556EU** −10% → ~£610 ≈ €707
+- AA/BA £564 fares: **no CES code applies** (AA/BA not partners)
+
+### Final budget statement
+**Absolute verified minimum for a compliant trip: €636 (FRA Dec 31→Jan 16).** From Paris: €654–655 (CDG Dec 24 or Dec 31). €600 remains ~€35–55 short; the realistic closing levers are (1) the United CES code on the £574 United fare, (2) price alerts — AA fares re-price often, (3) ~40-days-out booking window (mid-Dec).
+
+### Booking links (all live, paste into browser)
+- 🥇 FRA: https://www.skyscanner.net/transport/flights/FRA/LAS/261231/270116/
+- 🥈 CDG: https://www.skyscanner.net/transport/flights/CDG/LAS/261231/270116/ and https://www.skyscanner.net/transport/flights/CDG/LAS/261224/270116/
+- BRU: https://www.skyscanner.net/transport/flights/BRU/LAS/261231/270116/
+- Nonstop DL229 Jan 3: https://www.skyscanner.net/transport/flights/CDG/LAS/270103/270120/?q=D
+- One-way calendar CDG (price alerts): https://www.skyscanner.net/transport/flights/CDG/LAS/?oym=2612&rtn=0
+- One-way calendar LAS return: https://www.skyscanner.net/transport/flights/LAS/CDG/?oym=2701&rtn=0
+- United CES code booking: https://www.united.com/en/us/book-flight (enter ZSQG464210)
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
