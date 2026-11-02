@@ -184,7 +184,43 @@ PAR→NYC ($305–390) + NYC→LAS ($172–264) + LAS→TYO ($339–491) + TYO�
 | LH Group CES portal (SWISS/Brussels/LH connections) | base $673–700 | portal rate, est. **$600–640 ≈ €560–600** — must check in browser | lufthansa.com/us/de/event/ces-2027 |
 | Frontier return leg Jan 19–23 (outbound separate) | £199–250 ≈ €230–290 | — | Skyscanner dated cards |
 
-**Bottom line for deadline-compliant trips: verified floor ≈ €764 (AF RT + 10% code). Only unverified-but-plausible path under €600 is the Lufthansa Group CES portal for a Dec 31–Jan 4 departure. Frontier/WestJet tricks do not apply to the pre-Jan-5 outbound.**
+**Bottom line for deadline-compliant trips (UPDATED by live scrape 2026-11-02): the true floor is £548 (FRA Dec 31 out) / £564 (CDG Dec 31 out) ≈ €637–655 — NOT €600. See LIVE-VERIFIED section below.**
+
+---
+
+## 🎯 LIVE-VERIFIED REAL PRICES — Scrapling stealth scrape of Skyscanner search results (2026-11-02)
+
+All prices below are **real live search results** (not SEO cards, not aggregates), GBP, taxes incl. £1 ≈ €1.16.
+
+### Deadline-compliant round trips (arrive LAS Dec 31–Jan 4)
+| Depart | Return | Origin | Cheapest | ≈EUR | Itinerary |
+|--------|--------|--------|----------|------|-----------|
+| **Dec 31** | **Jan 16** | **FRA** | **£548–549** ⭐ | **€637** | AA out via CLT (FRA 10:50→LAS 20:06) + BA in via LHR |
+| Dec 31 | Jan 16/17/20 | CDG | **£564** | €655 | AA out via PHL (CDG 13:30→LAS 20:26) + BA in |
+| Dec 31 | Jan 16 | BRU | £646 | €750 | United via EWR/ORD |
+| Jan 3 | Jan 20 | CDG | £793 | €920 | AF+Virgin via LHR (arrive Jan 3 20:25 ✅) |
+| Jan 3 | Jan 20 | CDG nonstop | £911–1,039 | €1,057–1,205 | DL229 out (10:30→12:15) + AF nonstop back |
+| Jan 2 | Jan 19 | CDG | £738 | €856 | AF+Virgin (arrive Jan 3 13:40 ✅) |
+| Jan 4 | Jan 21 | CDG | £756 | €877 | AA via ? (arrive Jan 4 23:15 ✅) |
+| Jan 3 | Jan 20 | BRU | £912 | €1,058 | United via ORD |
+
+### One-way pieces (for self-built splits)
+| Leg | Date | Price | Airline |
+|-----|------|-------|---------|
+| CDG→LAS | Dec 31 | **£382** | AA via PHL (13:30→20:26) |
+| FRA→LAS | Dec 31 | **£364** | AA via CLT (10:50→20:06) |
+| CDG→LAS | Jan 3 | £838 (1-stop) / £911 (nonstop) | Delta via MSP / DL229 |
+| LAS→CDG | Jan 16 | **£221** | JetBlue via JFK |
+| LAS→CDG | Jan 17 | **£208** | JetBlue via BOS |
+| LAS→CDG | Jan 20 | **£204** | JetBlue via BOS |
+
+Split vs through: FRA-out split £364+£221=£585 vs through £548 → **through-ticket wins**.
+
+### Budget verdict (FINAL, live data)
+- **Cheapest deadline-compliant option verified today: FRA Dec 31 → Jan 16, £548 ≈ €637** (+TGV/Ryanair Paris↔FRA ~€40–60)
+- **Cheapest from Paris proper: CDG Dec 31 → Jan 16/17/20, £564 ≈ €655**
+- **€600 is NOT currently reachable on any live price.** Gap = ~€40–55. Closing levers: (1) price-drop alerts — these AA fares fluctuate; (2) Lufthansa Group CES portal (browser-only) if its rates for Dec 30+ departures undercut AA; (3) wait — cheapest booking window ~40 days out (Dec 20) may dip.
+- Booking link (paste dates): https://www.skyscanner.net/transport/flights/FRA/LAS/261231/270116/ and https://www.skyscanner.net/transport/flights/CDG/LAS/261231/270116/
 
 ---
 
