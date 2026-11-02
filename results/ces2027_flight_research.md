@@ -161,6 +161,33 @@ PAR→NYC ($305–390) + NYC→LAS ($172–264) + LAS→TYO ($339–491) + TYO�
 
 ---
 
+## ⛔ HARD CONSTRAINT (user): MUST ARRIVE LAS **BEFORE Jan 5, 2027**
+
+### Confirmed flights that satisfy the deadline (depart Europe Dec 29–Jan 4)
+| Flight | Date | Route | Verified source |
+|--------|------|-------|-----------------|
+| **Delta DL229** nonstop | **Sun Jan 3, 2027** ✅ schedule confirmed | CDG 10:30 → LAS ~12:15 | [aviability DL229 Jan 3 2027](https://aviability.com/en/flight/dl229-delta/cdg-las) |
+| **Air France AF56** nonstop + CES extras | Tue Dec 29, Thu Dec 31, Sat Jan 2, Sun Jan 3 (extra Tue/Thu/Sat Dec 28–Jan 10) | CDG ~10:45 → LAS ~14:00 same day | [CES official PDF](https://www.ces.tech/media/vh3jsjgi/unique-air-france-and-klm-offer-for-ces2027-attendees.pdf) |
+| KLM via AMS | daily (AMS→LAS nonstop Tue/Thu/Sat) | arrive Jan 2–4 | KAYAK AMS page |
+| LH Group via FRA/MUC/ZRH/BRU | daily connections | arrive Jan 3–4 | needs CES portal check |
+
+### What the deadline ELIMINATES (all previous sub-€600 candidates)
+- ❌ WestJet $673 January RT — only Jan 15/16/19/20 departures
+- ❌ Skyscanner £270 WestJet one-way — Jan 14
+- ❌ Any “cheapest month Jan” aggregate — their cheapest days were Jan 14/19/26
+
+### Price reality for a Jan 2–4 departure (verified)
+| Option | Price | With discount | Source |
+|--------|-------|---------------|--------|
+| **AF official site: January 2027 RT from €849** | €849 | **~€764 with `GME61556EU`** ⭐ cheapest VERIFIED for deadline | [airfrance.fr route page, live-fetched](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-las-vegas) |
+| Delta nonstop RT (Jan dates) | $1,079 (~€1,000) | est. −5–10% w/ code NY543 | KAYAK |
+| LH Group CES portal (SWISS/Brussels/LH connections) | base $673–700 | portal rate, est. **$600–640 ≈ €560–600** — must check in browser | lufthansa.com/us/de/event/ces-2027 |
+| Frontier return leg Jan 19–23 (outbound separate) | £199–250 ≈ €230–290 | — | Skyscanner dated cards |
+
+**Bottom line for deadline-compliant trips: verified floor ≈ €764 (AF RT + 10% code). Only unverified-but-plausible path under €600 is the Lufthansa Group CES portal for a Dec 31–Jan 4 departure. Frontier/WestJet tricks do not apply to the pre-Jan-5 outbound.**
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
