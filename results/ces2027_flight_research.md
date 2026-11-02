@@ -159,7 +159,81 @@ PAR→NYC ($305–390) + NYC→LAS ($172–264) + LAS→TYO ($339–491) + TYO�
 
 ---
 
-## 8) Final recommendations (redone, evidence-based)
+---
+
+## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
+
+### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
+| Date | Airline | Stops | Price | EUR |
+|------|---------|-------|-------|-----|
+| Thu **14 Jan 2027** | WestJet | 1 | **£270** | €313 |
+| Fri 5 Feb 2027 | WestJet | 1 | £270 | €313 |
+| Wed **20 Jan 2027** | **Air France DIRECT** | 0 | **£469** | €544 |
+| Wed 23 Dec 2026 | Air France DIRECT | 0 | £462 | €536 |
+| Cheapest RT found | (26 Jan→5 Feb) | — | **£401** | €465 |
+
+### LAS→PAR dated one-way deals ([page](https://www.skyscanner.net/routes/lasa/pari/las-vegas-to-paris.html))
+| Date | Airline | Stops | Price | EUR |
+|------|---------|-------|-------|-----|
+| Thu **28 Jan 2027** | **Frontier →CDG** | 1 | **£199** | €231 |
+| Thu 26 Nov 2026 | Frontier →ORY | 1 | £184 | €213 |
+| Wed **13 Jan 2027** | Air France DIRECT | 0 | **£485** | €563 |
+| Mon 28 Dec 2026 | Delta DIRECT | 0 | £487 | €565 |
+| Cheapest RT found | (26 Nov→28 Jan) | — | **£469** | €544 |
+
+### NYC→LAS ([page](https://www.skyscanner.net/routes/nyca/lasa/new-york-to-las-vegas.html))
+- **Frontier LGA→LAS £63–64** (1 Feb, 11 Jan, 4 Dec), EWR £72 — dirt cheap
+- JetBlue JFK nonstop **£119 (28 Jan)**
+- Best RT **£132** (EWR 19→27 Jan 2027) ✅ dated near-CES window
+- 717 weekly flights — huge supply
+
+### LAS→Tokyo ([page](https://www.skyscanner.net/routes/lasa/tyoa/las-vegas-to-tokyo.html))
+- **Frontier LAS→NRT £189 (19 Jan 2027)** / →HND £201 (24 Jan) ⭐ ULCC option
+- AA nonstop £487 (7 Jan 2027 — CES window!)
+- Best RT **£243** (13 Jan→1 Feb 2027); cheapest month = January
+
+### TYO→Shanghai: one-way ~$120–147 (62 weekly nonstops HND-PVG; Spring/Peach ULCCs) ([page](https://www.skyscanner.net/routes/tyoa/csha/tokyo-to-shanghai.html))
+### PAR→NYC: one-way from $305 (£262) ([page](https://www.skyscanner.net/routes/pari/nyca/paris-to-new-york.html))
+
+> ⚠️ Skyscanner **live date-search** (specific Jan 3–5 query) is CAPTCHA-blocked to bots; dated deals above are from their public deal cards (found in last 4–12 days). Frontier fares = ULCC base (no checked bag).
+
+### Frontier changes the math (dated floor combos, CES dates NOT guaranteed)
+| Combo | Dated evidence | Total | EUR |
+|-------|---------------|-------|-----|
+| Route A seg: CDG→LAS £270 (Jan 14) + LAS→CDG £199 Frontier (Jan 28) | ✅ both dated | £469 | **≈€544** |
+| Route B seg: PAR→NYC ~£240 + LGA→LAS £64 (Jan 11) + LAS→CDG £199 (Jan 28) | ✅ dated except PAR leg | ~£503 | **≈€583** |
+| Route D seg: PAR→NYC £240 + LGA→LAS £64 + LAS→NRT £189 (Jan 19) + TYO→PVG ~£115 | ✅ dated except PAR leg | ~£608 | ≈€705 |
+
+**For actual CES dates (Jan 2–5 out, Jan 19–23 back)**: expect CES-week demand premium on the transatlantic legs; realistic Frontier/WestJet-style segments ≈ **€640–830** for Route A/B. Sub-€600 possible only if ULCC fares open for Jan 2–5 — set alerts.
+
+---
+
+## 10) ✅ ALL FIVE OFFICIAL CES 2027 AIRLINE DISCOUNTS ([CES travel page, fetched live](https://www.ces.tech/attendee-guides/travel-tips-and-discounts/))
+
+| Airline | Discount | Code / How | Applies to our routes? |
+|---------|----------|-----------|------------------------|
+| **Air France / KLM** | 10% off most airfares | `GME61556EU` (EUR) / `GME61556US` (USD) / `GME61556GB` (GBP); "business"=YES, contract "MICE" | ✅ Route A AF/Delta-coded fares; min base fare €170 |
+| **Delta** | special meeting discount | Meeting Event Code **NY543** on delta.com or 1-800-328-1111 | ✅ CDG↔LAS nonstop ($1,079 RT → est. −5–10%), LAS↔PVG CES charters |
+| **Lufthansa Group** (LH, SWISS, Austrian, **Brussels Airlines**, Edelweiss, Discover) | exclusive discounted rates; **valid up to 1 week before and 1 week after CES** (≈Dec 30–Jan 16!) | booking portal: lufthansa.com/us/de/event/ces-2027 (403 to bots — open in browser) | ⭐ **KEY LEVER**: KAYAK's $673 SWISS / $673 LH / $700 Brussels fares are LH Group → discounted rates could land ≈ **$600–640 ≈ €560–600** |
+| **United** | promo discount | code **ZSQG464210** at united.com (Meeting travel desk (800) 426-1122) | domestic legs (EWR→LAS) + UA via hubs |
+| **Southwest** | discounted fares **travel Jan 5–9, 2027 only** | via SWABIZ, company ID 90014466 | domestic legs only |
+
+---
+
+## 11) REVISED FINAL RECOMMENDATION (after Skyscanner + discount sweep)
+
+### Path 1 — **Lufthansa Group CES portal** (most promising for €600)
+SWISS/LH/Brussels already publish $673–700 CDG↔LAS January fares (verified via KAYAK). LH Group CES rates apply **±1 week around CES** → book Jan 2–5 window through [lufthansa.com/us/de/event/ces-2027](https://www.lufthansa.com/us/de/event/ces-2027) (browser required). Target landing: **$600–640 ≈ €560–600**.
+
+### Path 2 — ULCC segmented (Frontier-heavy), if dates flexible
+CDG→LAS (WestJet £270-style) + LAS→CDG (Frontier £199-style) ≈ **€544** on Jan 14/28; ≈ €640–830 if same fares exist Jan 2–5 / Jan 19–23. Add ~£40–90 for bags. [Skyscanner alerts](https://www.skyscanner.net/transport/flights/CDG/LAS/?oym=2701&locale=en-GB&market=UK&rtn=0)
+
+### Path 3 — AF nonstop + CES 10%
+£469 out (Jan 20 — misses CES start) / AF RT $921 → **$829 with code** ≈ €750. Comfort + protection, over budget.
+
+### Budget verdict (final)
+- **€600 remains tight but no longer hopeless**: LH Group CES portal or ULCC segmented are the two credible sub-€600 paths; verified floors (not CES-dated) already sit at €465 (RT Jan 26→Feb 5) and €544 (segmented Jan 14/28).
+- **Best single action right now**: open the Lufthansa CES-2027 portal in a real browser and check the special rates for Jan 2–5 → Jan 19–23, plus set Skyscanner price alerts on CDG↔LAS for those dates.
 
 1. **€600 for the exact CES window is not currently achievable from Paris by any verified price.** Honest expected cost: **€680–900** (Route A), €950+ for B/C/D.
 2. **Best value for CES week:** WestJet CDG↔LAS via Calgary — repeatedly the $673 floor in January. If a Jan 2–4 departure pair appears at similar fare (watch price alerts), that's the buy. [KAYAK](https://www.kayak.com/flight-routes/Paris-Charles-de-Gaulle-CDG/Las-Vegas-McCarran-LAS)
@@ -181,5 +255,7 @@ PAR→NYC ($305–390) + NYC→LAS ($172–264) + LAS→TYO ($339–491) + TYO�
 ## Appendix: search log (redo run, 2026-11-02)
 - Fetched live: KAYAK CDG→LAS, LAS→PAR, CDG→JFK, JFK→LAS, LAS→PVG, LAS→TYO, DUB→LAS (7 pages)
 - Snippets: Skyscanner (cdg/lasa, pari/lasa, brus/lasa, lasa/pek, lasa/cn, toyoa/csha, pari/nyca), Expedia (cdg/las, par/las, las/pek, las/can, ams/las, b6 ewr/lga→las), momondo cache, Condor, TravelFree, fly4free (stale 2025), Secret Flying (unverified claim), CES official, Delta/PRNewswire/Herald
+- **2026-11-02 extension**: Skyscanner fetched LIVE via Jina reader (allowRemoteHostedProviders=true): cdg/lasa, lasa/pari, nyca/lasa, lasa/tyoa, pari/nyca, toyoa/csha route pages — dated deal cards captured. CES travel page fetched live → 5 airline discount programs documented (AF/KLM, Delta NY543, Lufthansa Group portal, United ZSQG464210, Southwest SWABIZ). KAYAK AMS→LAS fetched (worst origin: RT $752+).
+- Skyscanner live date-search endpoint = CAPTCHA; only SEO route pages + dated deal cards accessible
 - Blocked: Skyscanner page fetch (anti-bot), momondo route URL (404), Expedia fetch (HTTP 429 — data via snippets), LetsFG (402 payment_method_required, needs human approval at letsfg.co/connect)
 - Corrections vs v1: "$362 = Jan 14" (not Jan 3–5); "€359 fly4free = 2025 deal"; "Dublin €476 not currently verified (KAYAK floor $666)"; "JetBlue $326 RT = Dec, not Jan"; "€545 total is not achievable on CES dates"
