@@ -276,6 +276,35 @@ Split (out+back separately): best deadline combo = CDG Dec 31 £381 + Jan 16 £2
 
 ---
 
+## 🌍 EXTENDED AIRPORTS — Rome / London / Frankfurt one-way calendars (live scrape)
+
+| Origin | Best deadline RT found | ≈EUR | Verdict |
+|--------|----------------------|------|---------|
+| **FRA** | **£548 (Dec 31→Jan 16)** | **€636** | 🥇 still the winner from ALL tested airports |
+| CDG | £564 (Dec 24 / Dec 31) | €654 | 🥈 |
+| LHR | £639 (Dec 31→Jan 16, Delta+Virgin) | €741 | ✗ worse |
+| BRU | £646 | €749 | ✗ worse |
+| AMS | £731 | €848 | ✗ worse |
+| **FCO Rome** | **£865–871** (BA via LHR / AF via CDG) | **€1,003–1,010** | ✗ expensive — no cheap transatlantic from Rome |
+
+**Frankfurt one-way daily (FRA→LAS):** Dec 20 £442 · 21 £375 · 22 £359 · **24 £367** · 25 £467 · 26 £463 · **27 £365** · 30 £513 · **31 £363** | Jan 1 £409 · 2 £571 · 3 £646 · 4 £483
+**Return LAS→FRA (Jan):** 14 £289 · 15 £293 · **17 £267** · 18 £272 · 19 £281 · 21 £287 · 22 £284 · 24 £279 · 30 £258
+- Best FRA split: Dec 31 £363 + Jan 17 £267 = £630 — **through-ticket £548 beats it**
+- Condor FRA↔LAS: **no winter service** (0 options on CES dates)
+- Rome conclusion: all routings ≥£865 — eliminate FCO
+
+### FINAL Europe-wide answer (deadline-compliant, live prices 2026-11-02)
+**Absolute floor: FRA Dec 31 → Jan 16 · £548 ≈ €636 · AA (via CLT) + BA (via LHR)** — plus Paris↔FRA transfer (~€40–60 by TGV/flight).
+Runner-up with zero transfer hassle: **CDG Dec 31 or Dec 24 · £564 ≈ €654 · AA + BA**.
+Links:
+- FRA: https://www.skyscanner.net/transport/flights/FRA/LAS/261231/270116/
+- FRA Dec 24: https://www.skyscanner.net/transport/flights/FRA/LAS/261224/270116/
+- CDG: https://www.skyscanner.net/transport/flights/CDG/LAS/261231/270116/
+- FRA price alerts: https://www.skyscanner.net/transport/flights/FRA/LAS/?oym=2612&rtn=0
+- FRA return alerts: https://www.skyscanner.net/transport/flights/LAS/FRA/?oym=2701&rtn=0
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
