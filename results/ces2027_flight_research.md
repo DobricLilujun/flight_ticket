@@ -545,6 +545,31 @@ Booking: A https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-13 · B-in
 
 ---
 
+## 🇨🇳 ONE-WAY CHINA RETURN GRID v3 (live, EUR, 2026-11-04) — trip: PAR→(NYC)→LAS→home (PVG/PEK), no return to Paris
+
+One-way floors found (Skyscanner monthly calendars):
+| Leg | Cheapest dates (EUR one-way) |
+|---|---|
+| PAR→NYC | Dec 28 **€367**, Dec 29 €388, Dec 31 €395; Jan 2 €793 dead |
+| PAR→LAS | Dec 31 **~€442** (£381), Jan 4 €457, Jan 5 €463 (same-day arr) |
+| NYC→LAS | Jan 4 **€130**, Jan 2 €190, Jan 3 €191 |
+| LAS→PVG | Jan 19 **€408**, Jan 18 €411, Jan 12 €417, Jan 9 €479 (1/16 outlier 1252) |
+| LAS→PEK | Jan 19 €400 |
+| SFO→PVG | Jan 14 **€397**, Jan 11 €415, Jan 12 €418, Jan 18 €413 — steady €400-440 |
+| SFO→PEK | ~€430 steady |
+| SJC/OAK→PVG | thin data, €446+/€532+ |
+
+**Best assemblies (flight-only totals):**
+1. €850 — PAR→LAS Dec 31 (€442) + CES + LAS→PVG Jan 19 (€408) — longest Vegas stay
+2. €859 — same out + LAS→PVG Jan 12 (€417) — 12-day trip
+3. ~€839+transfer — PAR→LAS Dec 31 + self-transfer to Bay Area + SFO→PVG Jan 14 €397
+4. €905 — NYC version: PAR→NYC Dec 28 €367 (NYE) + NYC→LAS Jan 4 €130 + LAS→PVG Jan 19 €408
+
+Calendars to re-check/book: https://www.skyscanner.net/transport/flights/CDG/LAS/?oym=2612&rtn=0 · https://www.skyscanner.net/transport/flights/LAS/PVG/?oym=2701&rtn=0 · https://www.skyscanner.net/transport/flights/SFO/PVG/?oym=2701&rtn=0 · https://www.skyscanner.net/transport/flights/PAR/NYC/?oym=2612&rtn=0
+Note: single-ticket multi-city not yet probed (Kayak multi-city UI not scrape-tested); expect roughly parity ±€80. LAS→China has no nonstops (via DFW/SEA/JFK); SFO→PVG/PEK HAS nonstops (UA/AC/MU ~13-14h).
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
