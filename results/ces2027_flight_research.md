@@ -363,6 +363,41 @@ Outbound (both): Air France+Virgin **CDG Jan 3 21:00 → LHR → LAS Jan 4 13:40
 
 ---
 
+## ✈️ NONSTOP & NYC-LAYOVER HUNT (scraped 2026-11-04, plan: arrive≤Jan 4, depart Jan 16–18)
+
+### Route verification (Jan 2027)
+- **CDG↔LAS NONSTOP EXISTS**: Air France AF56 3x/week (Mon/Wed/Fri-ish; Jan 2,4,7,9,11,14,16,18…), A350/777, CDG 10:40–10:50 → LAS ~13:05–13:10 same day; return AF LAS ~15:25 → CDG 10:50+1. Delta DL229/DL81 joins from Jan 3 (Sun 10:30→12:15). Source: flightsfrom.com/CDG-LAS, exa trip data, DL/AF winter 26-27 PDF.
+- **Norse Atlantic CDG→JFK CANCELLED** for winter 2026-27 (Axed Oct 2026) → NYC budget split has no ULCC.
+- Frontier: no LAS→Europe nonstops in dataset (LAS→MUC etc. all 1-stop) → no budget return nonstop.
+
+### Cheapest NONSTOP round trip (all live Skyscanner)
+| Dates | Price | Flights |
+|---|---|---|
+| **CDG Jan 3 → Jan 17 ⭐ cheapest nonstop RT** | **£976 ≈ €1,132** | AF56 direct out 10:45→13:10 + direct return |
+| CDG Jan 3 → Jan 17 (DL) | £999 | DL229 10:30→12:15 + direct return |
+| CDG Jan 4 → Jan 18 | £999–1,012 | AF 10:40→13:05 + AF direct return 15:25→10:50+1 |
+| CDG Jan 4 → Jan 17 | £1,012 | AF out + return |
+| CDG Jan 2 → Jan 16/17 | £1,072 | AF out + return |
+| Split (nonstop out 1/3 £615 + one-way return £254–489) | £869–1,095 | through-ticket £976 wins |
+| Nonstop one-way 1/4 | ≥£700 | calendar £394 was a connecting fare — not nonstop |
+
+### NYC split (EUR one-ways, live calendar Jan 2027)
+| Leg | Jan 2 | Jan 3 | Jan 4 | Jan 17 | Jan 18 |
+|---|---|---|---|---|---|
+| PAR→NYC | 750€ | 600€ | 491€ | | |
+| NYC→LAS | 190€ | 191€ | 130€ | | |
+| LAS→NYC | | | | 117€ | 126€ |
+| NYC→PAR | | | | 265€ | 220€ |
+
+Best NYC-split total ≈ **730€ out (1/3+1/4) + 337€ back = €1,067** ❌ LOSES — CES-week one-ways PAR→NYC are €491–750 alone. NYC layover only helps inside through-tickets, and even those route cheaper via LHR/LAX.
+
+### Verdict vs €500 budget
+- **Cheapest nonstop RT ≈ €1,132** (2.3x budget); nonstop is a comfort upgrade, not a budget option
+- **Cheapest compliant overall from Paris remains £564/€654 (Dec 31→Jan 11)**; on user's Jan 4-arrive/Jan 17-18-depart frame the floor is **£642/€745** (Jan 3 21:00 night out via LHR + Delta LAX ~2.5h back) — recommend booking
+- €500 from Paris in CES window: **not found at any configuration** (live-verified floors: RT £564; one-ways alone ≥€491 outbound side). Only levers: CES AF/KLM 10% code on AF56 nonstop (→ ~€1,020) or fare-drop monitoring
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
