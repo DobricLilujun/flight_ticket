@@ -465,6 +465,22 @@ Kayak links: https://www.kayak.co.uk/flights/DUB-LAS/2026-12-28/2027-01-11 · ht
 
 ---
 
+## 🗽 NYC-SPLIT STRATEGY (buy PAR⇄NYC RT + NYC⇄LAS RT separately) — dual-site big search 2026-11-04
+
+| Leg | Kayak | Skyscanner | Winner |
+|---|---|---|---|
+| PAR⇄NYC Dec 28→Jan 18 | **£422 (€490)** | £472 (French Bee ORY-JFK) | Kayak |
+| PAR⇄NYC Dec 23→Jan 18 | **£371 (€430)** | — | Kayak |
+| PAR⇄NYC Jan 3→Jan 18 | £646 | £875 | Kayak |
+| NYC⇄LAS Jan 4→Jan 18 | **£247 (€287)** | £406 | Kayak |
+| NYC⇄LAS Jan 3→Jan 17 | £293 | £417 | Kayak |
+
+**Best NYC-split total: £422 + £247 = £669 ≈ €777** (Kayak both legs): fly to NYC Dec 28 (7 nights NYC play + Christmas/NYE), NYC→LAS Jan 4 ✅ compliant, CES, LAS→NYC Jan 17/18, NYC→PAR Jan 18/19. Even Dec 23 variant: £618 ≈ €717.
+
+**Verdict**: NYC split beats single-ticket Jan-3→18 combo on flexibility + NYC vacation value, but is ~€30–130 MORE than the plain through-ticket floors (€607 DUB / €640 CDG / €745 Jan3-night). Separate tickets = no interline protection: keep ≥1 day buffer NYC↔LAS hops, bag fees extra on ULCC. Kayak links: https://www.kayak.co.uk/flights/PAR-NYC/2026-12-28/2027-01-18 · https://www.kayak.co.uk/flights/NYC-LAS/2027-01-04/2027-01-18
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
