@@ -590,6 +590,24 @@ Booking links (Kayak): https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31 · htt
 
 ---
 
+## 🔁 ALL-ROUND-TRIPS VIA PARIS + CHINA POST-CNY (user's new full structure, live 2026-11-04)
+Structure: PAR⇄LAS RT (CES) → home in Paris → PAR⇄PVG/PEK RT (out ~Jan 13-17, back ~Feb 10 post-CNY)
+Probes (Skyscanner + Kayak):
+| Combo | Skyscanner | Kayak |
+|---|---|---|
+| **PAR⇄PVG Jan 14→Feb 10** | £529 €614 | **£485 €563 🏆 under €600 ✅** |
+| PAR⇄PVG Jan 17→Feb 10 | £489 €567 | £487 €565 |
+| PAR⇄PVG Jan 13→Feb 10 | £511 €593 | £516 €599 |
+| PAR⇄PVG Jan 14→Feb 12 | £508 €589 | £506 €587 |
+| PAR⇄PEK Jan 14→Feb 10 | £650 €754 | — |
+| LAS⇄PVG single round-ticket | £1,059 €1,228 ❌ | — |
+
+**FINAL ALL-RT BUNDLE**: CDG⇄LAS Dec 31→Jan 11/13 €640-654 + PAR⇄PVG Jan 14→Feb 10 €563 = **≈€1,203-1,217 total** — China leg under €600 as requested. Comfort pick: LAS back Jan 11 (€654) + China Jan 14→Feb 10 (€563) = €1,217 with 3 Paris buffer days. Aggressive: LAS back Jan 13 + China out Jan 14 = €1,203 (tight).
+Links: https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-11 · https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-13 · https://www.kayak.co.uk/flights/PAR-PVG/2027-01-14/2027-02-10 · https://www.skyscanner.net/transport/flights/PAR/PVG/270117/270210/
+Note PVG>>PEK (€754) and LAS⇄PVG one-ticket (€1,228) both dominated.
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
