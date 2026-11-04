@@ -481,6 +481,37 @@ Kayak links: https://www.kayak.co.uk/flights/DUB-LAS/2026-12-28/2027-01-11 · ht
 
 ---
 
+## 🕸️ NYC-SPLIT FULL GRID (≈1.5-week trip, dual-site, 2026-11-04)
+Constraint: arrive LAS ≤Jan 5, cover CES Jan 6–9, total trip ≈10–13 nights.
+
+Leg1 PAR⇄NYC (Kayak / Skyscanner GBP):
+| Out→Back | Kayak | Skyscanner |
+|---|---|---|
+| **Dec 29→Jan 11** | **£370 🏆** | — |
+| Dec 29→Jan 10 / Jan 9 | £371 | £384 (Jan 10) |
+| Dec 28→Jan 8 | £435 | £497 (Jan 8) |
+| Dec 26→Jan 10 | £397 | — |
+| Dec 27→Jan 8 | £461 | — |
+| Dec 30→Jan 10 | £494 | — |
+| Dec 31→Jan 11 | £497 | — |
+| Jan 1→Jan 12 | £645 | — |
+| Jan 2→Jan 12 | £793 | — |
+
+Leg2 NYC⇄LAS (Kayak / Skyscanner):
+| Out→Back | Kayak | Skyscanner |
+|---|---|---|
+| **Jan 2→Jan 9** | **£232 🏆** | — |
+| Jan 3→Jan 9 | £250 | £287 |
+| Jan 4→Jan 9 | £254 | — |
+| Jan 2→Jan 10 | £262 | — |
+| Jan 4→Jan 10 | £271 | £276 (Jan 3→10) |
+
+**Best split: Dec 29→Jan 10/11 (PAR⇄NYC £370) + Jan 2→Jan 9 (NYC⇄LAS £232) = £602 ≈ €700** — plan: fly to NYC Dec 29 (3 nights NYC: NYE!), Jan 2→LAS (7 nights incl CES), Jan 9 back to NYC (1 night), Jan 10/11 →PAR. 13 nights total.
+
+**Final verdict: NYC-split (€700) does NOT beat plain through-ticket floors (DUB €607 / FRA €621 / CDG €640) — gap ≈ €60.** But the €60 buys 4 nights of New York incl Times Square NYE. If NYC stopover desired, this is genuinely cheap; if pure price, through-ticket wins. Kayak links: https://www.kayak.co.uk/flights/PAR-NYC/2026-12-29/2027-01-11 · https://www.kayak.co.uk/flights/NYC-LAS/2027-01-02/2027-01-09
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
