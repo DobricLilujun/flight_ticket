@@ -448,6 +448,23 @@ Add CDG↔DUB feeder (Aer Lingus/easyJet ~€40–80 RT) → total ≈ €650–
 
 ---
 
+## 🔀 CROSS-SITE CHECK — Kayak live scrape (2026-11-04), beats Skyscanner on 3 routes
+Kayak reveals **Iberia/BA fares Skyscanner missed** (GBP, Dec→Jan):
+
+| Route | Kayak floor | ≈EUR | vs Skyscanner | Detail |
+|---|---|---|---|---|
+| **DUB Dec 28→Jan 11** | **£523** | **€607** | £525 → −£2 | Iberia+BA via LHR, 17h54 |
+| **FRA Dec 31→Jan 11** | **£535** | **€621** | £549 → **−£14** | BA-only via LHR, 18h19 (ba.com direct £550) |
+| **CDG Dec 31→Jan 11** | **£552** | **€640** | £564 → **−£12** | Iberia via DFW, **1h48 layover, 13h47 total** |
+| CDG Dec 24→Jan 11 | £562 (AA) | €652 | = | |
+| CDG Jan 3→Jan 18 | £957+ | — | **£642 Skyscanner wins** | CES week: Skyscanner AF+Virgin night deal unique |
+
+Other findings: 2+ stops never cheaper (Kayak shows 2+ stops floor £831 on FRA). Google Flights scrapers (fast-flights 3.1) broken (parser/HTML block). Momondo=Kayak backend, Kiwi URL 404.
+**Cross-site floor: DUB £523 / €607; Paris-origin floor now CDG £552 / €640 via Kayak (also the fastest: 13h47).**
+Kayak links: https://www.kayak.co.uk/flights/DUB-LAS/2026-12-28/2027-01-11 · https://www.kayak.co.uk/flights/FRA-LAS/2026-12-31/2027-01-11 · https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-11
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
