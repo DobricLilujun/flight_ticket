@@ -608,6 +608,22 @@ Note PVG>>PEK (€754) and LAS⇄PVG one-ticket (€1,228) both dominated.
 
 ---
 
+## 🎯 €600 TOTAL CHALLENGE — EXHAUSTIVE EVIDENCE (goal turn 1, ~250 data points total)
+Target: entire CES itinerary ≤ €600. New probes this pass:
+1. **Alternative-airport land-transfer strategy FAILED**: PAR⇄DEN RT £621 (€720) + DEN↔LAS add-ons (£58/leg, 6.5h drive); PAR⇄LAX €831; PAR⇄PHX €847 (11h direct!); PAR⇄SFO €972. Vegas fares actually beat all gateways.
+2. **Split-ticket floors** (one-ways, Kayak/Skyscanner calendars): CDG Dec 31 £381 out + LAS→CDG Jan 13 £218 back = £599 (€695) — through-ticket still wins.
+3. **Jan 9 return edge** (right after CES): CDG Dec 31→Jan 9 €690; DUB Dec 28→Jan 9 €680 — all worse (departure peak).
+4. Kayak one-way probes rate-limited this hour (all "none") — Skyscanner data stands.
+
+**Market floors established (2026-11-04, two sites, 24 cities, ~250 probes):**
+- CES trip (arr ≤Jan 5 + CES covered), any Euro city: **€607** (DUB Dec 28→Jan 11, +€40-80 feeder = ~€650 all-in)
+- Paris-origin: **€640** (CDG Dec 31→Jan 13 Kayak)
+- Full structure with China RT (PAR⇄PVG Jan 14→Feb 10 €563): **€1,203**
+- Sub-€600 exists ONLY as: (a) fare-drop event (we've seen −£151/day moves; DUB £523 needs −£6 to hit €600 with feeder excluded, realistic target £460), or (b) error fare/flash sale.
+**Set alerts**: Kayak alerts on CDG-LAS Dec31→Jan13 & DUB-LAS Dec28→Jan11 (Kayak "Track prices" button), Skyscanner calendar alerts. Monitoring continues.
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
