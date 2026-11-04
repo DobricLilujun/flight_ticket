@@ -521,6 +521,30 @@ Leg2 NYC⇄LAS (Kayak / Skyscanner):
 
 ---
 
+## 🏁 FINAL FULL GRID (138 Kayak probes + Skyscanner verify, Dec 26–Jan 5 out × Jan 9–17 back, 7–15 nights, CES covered)
+
+### Plan A (CDG⇄LAS one RT) — cheapest cells
+| Dates | Kayak | Skyscanner | ≈€ |
+|---|---|---|---|
+| **Dec 31→Jan 13 / Jan 14 🏆** | **£552** | £564 | **€640** |
+| Jan 5→Jan 15 / Jan 17 (same-day arr AF56 13:15 or direct) | £557 | £642 | €646 |
+| Dec 31→Jan 11/12 | £564 | £564 | €654 |
+| Dec 28→Jan 11 | £591 | — | €686 |
+| Jan 3/4 any return 7-13n | £642 flat | £642 | €745 |
+| Jan 2 row | £767-980 | — | dead zone |
+
+### Plan B split — best combos (Kayak; Skyscanner verifies higher: B1 £391 direct DL, B2 £308)
+| Combo | Total | ≈€ | Structure |
+|---|---|---|---|
+| **PAR⇄NYC 12/29→1/13 £370 + NYC⇄LAS 1/4→1/13 £207 🏆** | **£577** | **€669** | 5 NYC nights incl NYE + 9 Vegas nights, total exactly 15 |
+| PAR⇄NYC 12/29→1/12 £370 + LAS 1/4→1/9 £219 | £589 | €683 | shorter Vegas leg |
+| PAR⇄NYC 12/29→1/10-11 £391 + 1/4→1/9 £219 | £610 | €708 | 7-day express |
+
+**FINAL VERDICT**: absolute cheapest Paris-origin compliant = **A Dec 31→Jan 13 €640 (Kayak)**. But the B-combo at **€669** adds 5 NYC nights incl Times Square NYE for only €29 more — best value of the entire research. Global floor from other cities still DUB €607. €500 not found in 138-cell grid; Kayak floor matrix: A-min £552, B-min £577.
+Booking: A https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-13 · B-int https://www.kayak.co.uk/flights/PAR-NYC/2026-12-29/2027-01-13 · B-dom https://www.kayak.co.uk/flights/NYC-LAS/2027-01-04/2027-01-13
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
