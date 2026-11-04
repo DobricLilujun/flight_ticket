@@ -512,6 +512,15 @@ Leg2 NYC⇄LAS (Kayak / Skyscanner):
 
 ---
 
+## ✈️ DISCOVER AIRLINES (4Y) — Frankfurt↔LAS NONSTOP confirmed (user's memory correct!)
+- **Discover Airlines (Lufthansa Group leisure carrier)** flies FRA⇄LAS nonstop **2x/week in Jan 2027: Wed + Sun** (1/3, 1/6, 1/10, 1/13, 1/17, 1/20…), A330-300, 4Y54 dep ~09:20–11:50 → LAS ~12:05–14:35 same day; codeshared LH4352. Return LAS evening → FRA next-day afternoon. (direktab.de airport calendar + flightmapper + flightsfrom.)
+- Condor DE2062 also on route BUT **starts 2027-05-02** — not available for CES. (Earlier "Condor no winter service" re-confirmed.)
+- Live CES-window prices for 4Y nonstop: Skyscanner Jan 3→13 shows nonstop RT **£1,339 ≈ €1,553**; Kayak Jan combos £784+ but no 4Y listed there. Discover/LH marketing teaser "from €527/€681 RT" applies to non-peak dates (Feb+ shows €320-420), NOT CES week.
+- Bonus find: **FRA Dec 27→Jan 13 £543 ≈ €630 Iberia via DFW 16h00 (Kayak)** — now tied as cheapest FRA option, close to DUB €607 floor. Link: https://www.kayak.co.uk/flights/FRA-LAS/2026-12-27/2027-01-13
+- Nonstop ranking for CES: AF56 CDG £976 < KLM AMS £1,166 < **4Y FRA £1,339**. Nonstop floor overall remains AF/DL from CDG.
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
