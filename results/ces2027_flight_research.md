@@ -398,6 +398,37 @@ Best NYC-split total ≈ **730€ out (1/3+1/4) + 337€ back = €1,067** ❌ L
 
 ---
 
+## 🌍 EUROPE-WIDE €500 SWEEP (2026-11-04, 16 cities, live Skyscanner)
+Target €500 (≈£431) — **not found in any city**. Floors (Dec 31→Jan 11 unless noted):
+
+| City | Best RT | ≈EUR | Carrier combo |
+|---|---|---|---|
+| **Dublin DUB Dec 27→Jan 11 🏆 NEW FLOOR** | **£544** | **€631** | AA via US hub |
+| Frankfurt FRA | £549 | €637 | AA+BA (Dec 31→Jan 16/11) |
+| Paris CDG | £564 | €654 | AA+BA |
+| Munich MUC | £576 | €668 | AA |
+| Brussels BRU | £646 | €749 | United |
+| Zurich ZRH | £674 | €782 | KLM via AMS |
+| Madrid MAD | £702 | €814 | Air Europa+KLM |
+| Amsterdam AMS | £729 | €846 | AA (KLM nonstop KL635 exists 3x/wk but fares high: Jan3→17 £1,166) |
+| Copenhagen CPH | £737 | €855 | SAS+Delta |
+| London LHR | £776 | €900 | — |
+| Barcelona BCN | £771 | €894 | KLM |
+| Vienna VIE | £798 | €926 | KLM |
+| Rome FCO | £865+ | €1,003+ | BA/AF |
+| Lisbon LIS | £899 | €1,043 | KLM |
+| Helsinki HEL | £909 | €1,054 | KLM |
+| Milan MXP | £940 | €1,090 | United |
+| Manchester MAN | £992 | €1,151 | KLM |
+| Warsaw WAW | no results on tested dates | — | — |
+
+One-way split test (Jan 2027, EUR): X→LAS one-ways Jan 2-4 = €563-1,315 (CES peak); LAS→X Jan 16-17 = €268-402. Splits always lose to through-tickets.
+Iberia JFK→LAS verified codeshare-only (no metal). KLM AMS→LAS KL635 nonstop 3x/wk (12:25→14:15) confirmed but premium-priced.
+
+**Verdict: €500 does not currently exist from any European city in this window; global floor = €631 (Dublin) / €637 (FRA) / €654 (CDG).** Path to €500: fare-drop alerts (we've seen −£151 in one day on one itinerary) or late-Jan sale events. Dublin is interesting: Aer Lingus/easyJet CDG-DUB €40–80 RT + US preclearance IN Dublin (clear US immigration before departure, land in US as domestic).
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
