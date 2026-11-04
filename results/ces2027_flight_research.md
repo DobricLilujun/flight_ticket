@@ -328,6 +328,41 @@ Links:
 
 ---
 
+## 🗓️ COMPACT ITINERARY MODE (stay ≈1.5 weeks) — scraped 2026-11-04
+Arrive Dec 31 → return Jan 9–11 (10–11 nights) | Arrive Jan 4 → return Jan 13 (9 nights)
+
+| Combo | Stay | Price | vs 2-week version | ≈EUR |
+|-------|------|-------|-------------------|------|
+| **FRA 12/31 → 1/11** | 11 nights | **£549** | same as Jan 16 ✅ | €637 |
+| FRA 12/31 → 1/10 | 10 nights | £549 | same | €637 |
+| **CDG 12/31 → 1/11** | 11 nights | **£564** | same as Jan 16 ✅ | €654 |
+| CDG 12/31 → 1/10 | 10 nights | £596 | +£32 on this date | €691 |
+| **CDG 1/3 21:00 → 1/13** | 9 nights (arr Jan 4) | **£642** | same as Jan 20 ✅ | €745 |
+| CDG 1/2 → 1/13 | — | £1,003 | bad | — |
+
+**Conclusion: shortening to ~1.5 weeks costs NOTHING — same £549/£564/£642 floors.** Prefer return **Jan 11** (Jan 10 leg prices higher on CDG side). Full CES coverage (Jan 6–9) still intact.
+Compact links:
+- CDG: https://www.skyscanner.net/transport/flights/CDG/LAS/261231/270111/
+- FRA: https://www.skyscanner.net/transport/flights/FRA/LAS/261231/270111/
+- CES-week late: https://www.skyscanner.net/transport/flights/CDG/LAS/270103/270113/
+
+---
+
+## 🗓️ FINAL PLAN MODE — arrive Jan 4, depart Jan 17/18, short connections (scraped 2026-11-04)
+
+| Combo | Return flight | Return route | Dur | ≈EUR |
+|-------|--------------|--------------|-----|------|
+| **CDG Jan3→Jan 18 — £642 ⭐** | Delta **LAS 14:00 → LAX → CDG 13:00+1** | one stop **LAX, connect ≈2.5h**, daytime | 14h00 | **€745** |
+| CDG Jan3→Jan 17 — £644 | Virgin+AF **LAS 22:20 → LHR → CDG 21:40+1** | one stop LHR, connect ~5h+, night dep | 14h20 | €747 |
+| FRA Jan3→Jan 17/18 | — | — | — | £857+ ❌ |
+
+Outbound (both): Air France+Virgin **CDG Jan 3 21:00 → LHR → LAS Jan 4 13:40** ✅ (arrives 2 days before CES)
+
+**Winner: CDG Jan 3 → Jan 18, £642 (≈€745).** Return = Delta daytime via LAX with only ~2.5h connection — the shortest-turnaround option under £800 on Jan 17/18. Jan 17 return costs the same but connects ~5h+ at LHR and departs 22:20 (night).
+- Booking link: https://www.skyscanner.net/transport/flights/CDG/LAS/270103/270118/
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
