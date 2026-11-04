@@ -429,6 +429,25 @@ Iberia JFK→LAS verified codeshare-only (no metal). KLM AMS→LAS KL635 nonstop
 
 ---
 
+## 💰 ALL-CONNECTIONS FLOOR HUNT (2026-11-04 late session)
+Probing date grid around the DUB discovery (all connecting, 1 stop, cheapest wins):
+
+| Combo | Price | ≈EUR | Routing |
+|---|---|---|---|
+| **DUB Dec 28 → Jan 11/13 🏆 GLOBAL FLOOR** | **£525** | **€609** | AA out DUB 11:30→LAS 23:15 via PHL |
+| DUB Dec 27 → Jan 13 | £544 | €631 | AA via PHL |
+| FRA Dec 22/27 → Jan 10/11 | £559 | €648 | AA |
+| DUB Dec 28 → Jan 10 | £560 | €650 | |
+| FRA Dec 31 → Jan 11 | £549 | €637 | AA+BA |
+| CDG Dec 31 → Jan 11 | £564 | €654 | AA+BA |
+| **CDG Dec 28 → Jan 11 — cheapest NONSTOP-out combo** | **£690** | **€800** | AF56 direct out 10:40→13:05 + connecting return |
+
+DUB adjacency: Dec 26 £581 / Dec 27 £544→Jan13 / Dec 29 £697 / Dec 30 £671 — Dec 28 is the sharp pocket. Booking: https://www.skyscanner.net/transport/flights/DUB/LAS/261228/270111/
+Add CDG↔DUB feeder (Aer Lingus/easyJet ~€40–80 RT) → total ≈ €650–690 vs €654 direct from Paris — comparable, with Dublin US preclearance bonus.
+**€600 target now missed by only €9.** Watch FRA £549 / DUB £525 alerts; one normal dip clears it.
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
