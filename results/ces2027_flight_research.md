@@ -305,6 +305,29 @@ Links:
 
 ---
 
+## 📅 DAILY PRICE TRACK — 2026-11-04 vs 2026-11-02 (live re-scrape)
+
+| Combo | 11-02 | 11-04 | Δ | Note |
+|-------|-------|-------|---|------|
+| FRA 12/31→1/16 | £548 | £549 | +£1 | still AA+BA floor |
+| CDG 12/31→1/16 | £564 | £564 | = | unchanged |
+| CDG 12/24→1/16 | £564 | £564 | = | unchanged |
+| FRA 12/24→1/16 | £574 | £573 | −£1 | United option |
+| BRU 12/31→1/16 | £646 | £646 | = |
+| AMS 12/31→1/16 | £731 | £730 | = |
+| LHR 12/31→1/16 | £639 | £776 | **+£137 ⬆** | Delta+Virgin deal gone — LHR no longer competitive |
+| **CDG Jan 3→Jan 20** | **£793** | **£642** | **−£151 ⬇ NEW BEST** | AF+Virgin, dep Jan 3 21:00, **arr Jan 4 13:40 ✅ compliant**, ≈€745 |
+| FRA 12/31→1/17 | — | £625 | new probe | worse than 1/16 return |
+| FRA 12/31→1/20 | — | £625 | new probe | worse than 1/16 return |
+
+### Takeaways (2026-11-04)
+1. **New mid-window bargain: CDG Jan 3 21:00 (AF+Virgin via LHR) → arrive LAS Jan 4 13:40, return Jan 20 → £642 ≈ €745.** Falls £151 in one day; first CES-window-adjacent fare under €750. Departs only 3 days before show; 16-night trip.
+2. LHR departure collapsed (+£137) — rule it out decisively.
+3. FRA/CDG Dec 31 champions stable at £549/£564 — gap to €600 persists (~€40–55).
+4. Watch: the £642 fare type often appears/disappears fast — if user prefers a Jan 3 departure, this is the moment to act.
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
