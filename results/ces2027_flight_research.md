@@ -570,6 +570,26 @@ Note: single-ticket multi-city not yet probed (Kayak multi-city UI not scrape-te
 
 ---
 
+## ✅ T1-T4 FINAL (Kayak one-ways beat Skyscanner again; nonstop China return verified)
+
+T1 Kayak one-way re-check (EUR): CDG→LAS 12/31 **€430** · PAR→NYC 12/28 €351 · NYC→LAS 1/4 €135 · LAS→PVG 1/12 **€393** / 1/19 €403 · SFO→PVG 1/14 **€384**
+T3 SFO→PVG NONSTOP: **UA857 12:55 daily** + **MU590 12:00 Mon/Wed/Fri/Sun-ish 3x/wk**, 777-300ER, 13-14h. LAS→China all 1-stop (DFW/SEA/JFK).
+T4: LAS→PEK 1/19 €400 · LAS→CAN 1/19 €390
+T2 multi-city single ticket: Kayak multi-city page lazy-loads, scraper can't price it — needs 2-min manual check in browser (est. parity ±€80).
+
+### 🏁 FINAL CHEAPEST (Kayak split, all today-live)
+| Config | Total | Detail |
+|---|---|---|
+| **1 🥇 direct LAS-home** | **€823** | CDG→LAS 12/31 €430 + LAS→PVG 1/12 €393 |
+| 2 longest Vegas stay | €833 | + LAS→PVG 1/19 €403 |
+| 3 via Bay Area (self-transfer) | **€814** +transfer | CDG→LAS €430 + SFO→PVG 1/14 €384 (直飞 UA857/MU590) |
+| 4 NYC NYE variant | €889 | PAR→NYC 12/28 €351 + NYC→LAS 1/4 €135 + LAS→PVG 1/19 €403 |
+| 5 Beijing/Canton options | ~€820-830 | CDG→LAS €430 + LAS→CAN 1/19 €390 or PEK €400 |
+
+Booking links (Kayak): https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31 · https://www.kayak.co.uk/flights/LAS-PVG/2027-01-12 · https://www.kayak.co.uk/flights/SFO-PVG/2027-01-14 · https://www.kayak.co.uk/flights/PAR-NYC/2026-12-28 · https://www.kayak.co.uk/flights/NYC-LAS/2027-01-04
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
