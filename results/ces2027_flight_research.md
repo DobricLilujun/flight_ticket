@@ -1,5 +1,12 @@
 # CES 2027 Flight Research — Full Redo (v2)
 ## Budget: €500–600 economy | CES 2027: **Jan 6–9, 2027** (confirmed) | Redo date: 2026-11-02
+
+> **⚡ READ THIS FIRST — authoritative floors, updated 2026-11-05 (see "GOAL TURN 3" section at the end of this file):**
+> - FX restated at £1 = €1.1982 → the old "€607 / €640" floors are really **€627 (Dublin) / €661 (Paris)**.
+> - **CES trip alone:** Paris CDG **Dec 31 → Jan 13 = €661** (Kayak) / €679 (Google) / €676 (Skyscanner); Dublin Dec 28 → Jan 11 = €627 (+€30 feeder).
+> - **Cheapest whole plan (Paris → Las Vegas → China → Paris, one-way split): €1,188–1,234** — CDG→LAS 12/31 (AA 755+AA 1886) · LAS→PVG 1/12 (AS 701+AS 123+GK 35) · PVG→CDG 2/10 (GF 125+GF 19).
+> - **Cheapest single-ticket round-the-world: €1,323** (Kayak multi-city, Bay Area routing).
+> - €600 total is not obtainable: floor(CES €627) + floor(China €581) = €1,208 on incompatible dates.
 ## Sources: KAYAK (4 route pages fetched live), Skyscanner (snippet data), Expedia (snippet data), momondo, Air France, Delta/CES official, fly4free, TravelFree, Secret Flying
 
 ### Legend
@@ -729,3 +736,130 @@ CDG→LAS (WestJet £270-style) + LAS→CDG (Frontier £199-style) ≈ **€544*
 - Skyscanner live date-search endpoint = CAPTCHA; only SEO route pages + dated deal cards accessible
 - Blocked: Skyscanner page fetch (anti-bot), momondo route URL (404), Expedia fetch (HTTP 429 — data via snippets), LetsFG (402 payment_method_required, needs human approval at letsfg.co/connect)
 - Corrections vs v1: "$362 = Jan 14" (not Jan 3–5); "€359 fly4free = 2025 deal"; "Dublin €476 not currently verified (KAYAK floor $666)"; "JetBlue $326 RT = Dec, not Jan"; "€545 total is not achievable on CES dates"
+
+---
+
+# 🌏 GOAL TURN 3 — 2026-11-05 (NEW TOOLING: flight numbers + single-ticket round-the-world)
+
+## 0) ⚠️ FX CORRECTION — all earlier EUR figures were understated
+Frankfurter ECB rate 2026-11-04: **£1 = €1.1982** (this file previously used 1.16).
+→ Every GBP-based floor restated: the "€607 Dublin" floor was **£523 = €627**; the "€640 Paris" floor was **£552 = €661**.
+All EUR figures below use 1.1982 (or are read directly in EUR from Google Flights).
+
+## 1) 🔧 Tooling breakthroughs this turn (keep for future turns)
+| Tool | What it unlocks | How |
+|---|---|---|
+| **Google Flights via `playwright-cli`** | live **EUR** prices **plus exact flight numbers, aircraft, times, layovers** | `playwright-cli goto "https://www.google.com/travel/flights?q=Flights%20from%20CDG%20to%20LAS%20on%202026-12-31%20one%20way&hl=en&curr=EUR&gl=fr"`, then click `button[aria-label^="Flight details"]` and read `document.body.innerText` (flight numbers appear as `AA\u00a0755`) |
+| **Kayak multi-city chained URL** | first working **single-ticket round-the-world** probe | `https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/LAS-PVG/2027-01-12/PVG-CDG/2027-02-10/?sort=flight_price` (leg/date segments alternate; read `Cheapest £x`) |
+| Skyscanner dated search via Scrapling | still the verification channel | `https://www.skyscanner.net/transport/flights/CDG/LAS/261231/?adults=1&currency=GBP&locale=en-GB&market=UK` + `Flight option N:` parser |
+| Google multi-city / Skyscanner multi-city | ❌ useless | Google returned only 6 mixed-cabin itineraries (min €8,852 — clearly mis-priced); Skyscanner multi-city URLs 404; plain Playwright on Skyscanner → captcha-v2 |
+
+Probe volume this turn: **≈90 live price probes** (36 Google one-way/RT day-grids, 12-city gateway sweep, 14 Kayak multi-city single-ticket combos, 18 Skyscanner dated, 12 Kayak one-ways).
+
+## 2) ✈️ LEG 1 — Paris → Las Vegas, arrive before Jan 5 (daily grid, 3 sites, EUR)
+| Depart | Google | Skyscanner | Kayak | Cheapest option (flight numbers) |
+|---|---|---|---|---|
+| Dec 28 | €533 | – | – | American via DFW (4h13 layover) |
+| Dec 29 | €568 | £474 = €568 | £454 = €544 | Delta 10:10 via SLC (4h27) |
+| Dec 30 | €638 | £531 = €636 | £454 = €544 | American via PHL |
+| **Dec 31 🏆** | **€463** | **£380 = €455** | **£371 = €444** | **AA 755 CDG 13:30→PHL 16:05 (B787) + AA 1886 PHL 17:42→LAS 20:26 (A321neo), 1 stop 1h37, 15h56 total** |
+| Jan 1 | €533 | – | – | American via DFW |
+| Jan 2 | €1,098 | – | – | dead zone |
+| Jan 3 | €598 | – | – | AF+Virgin via LHR (13h30 layover) |
+| Jan 4 | €570 | – | – | AF+Virgin via LHR |
+| Jan 5 | €532 | – | – | arrives Jan 5 → **violates the "before Jan 5" rule** |
+
+**Europe-wide gateway sweep, one-way Dec 31 (Google EUR):** FRA €439 < **CDG €463** < ZRH €520 < MAD €575 < AMS €576 < WAW €696 < BCN €713 < VIE €714 < LHR €731 < FCO €745 < MAN €780 < LIS €795 < MXP €848 · Dublin Dec 28/29 **€471** (American via PHL 11:30→23:15).
+Gateways do **not** help: FRA saves €24 but CDG→FRA feeder = €86 (Condor nonstop); DUB saves €0–8 and needs a €30 Ryanair feeder (PAR→DUB €30, Ryanair 22:55→23:30). **Paris CDG Dec 31 is the European floor.**
+
+## 3) 🇨🇳 LEG 2 — Las Vegas → China (daily grid Jan 9–20, Google EUR; Skyscanner/Kayak verify)
+| Date | Google | Best option | Skyscanner | Kayak |
+|---|---|---|---|---|
+| Jan 9 | €643 | Alaska+ANA via LAX/NRT (2 stops) | – | – |
+| Jan 10 | €621 | American via DFW 23:59→16:50+1 | – | £401 = €481 |
+| Jan 11 | €501 | United+ANA via LAX/NRT | – | – |
+| **Jan 12 🏆** | **€423** | **AS 701 LAS 07:00→SEA 09:50 + AS 123 SEA 12:00→NRT + Jetstar GK 35 NRT 22:20→PVG 01:10** (2 stops, self-transfer risk) | £405 = €485 (AC Express + ANA via YVR/HND 07:20→01:15+1) | £343 = €411 |
+| Jan 13 | €510 | Delta+Korean via SEA | – | – |
+| Jan 14 | €467 | Alaska+Jetstar | – | – |
+| Jan 15 | €568 | Delta+Korean | – | – |
+| Jan 16 | €614 | American+Cathay | £496 = €594 (Air Canada) | £361 = €433 |
+| Jan 17/18/20 | €505 | Korean Air 1 stop KE (22:50→09:45) | – | – |
+| Jan 19 | €521 | Alaska+Cathay via SFO | – | – |
+| LAS→**PEK** Jan 12 | €435 | Alaska+Korean via SEA (16h26 layover) | – | – |
+
+### Bay Area detour (user's "拉斯维加斯（湾区）" variant) — LAS→SFO is shockingly cheap
+| Leg | Price | Detail |
+|---|---|---|
+| LAS→SFO Jan 12 | **€22 Google / £18 = €22 Skyscanner / £19 = €23 Kayak** | **Frontier nonstop 07:00→08:48** (United nonstop €61) |
+| SFO→PVG Jan 12 | €430 Google / £333 = €399 Skyscanner / £336 = €403 Kayak | **CZ 660 SFO 23:35→WUH + CZ 3823 WUH→PVG 09:40+2** (1 stop 1h40) |
+| SFO→PVG Jan 14 | €384–430 | same China Southern pairing; Google shows no nonstop on Jan 12–14 (UA857/MU590 not offered at these dates) |
+
+## 4) 🏠 LEG 3 — China → Paris, post-CNY (CNY 2027 = **Feb 6**) — Google daily grid + Skyscanner month view
+| Date | Google EUR | Option | Skyscanner |
+|---|---|---|---|
+| Feb 6 | €489 | Hainan via SZX (29h50 layover) | – |
+| Feb 7 | €466 | Air Algérie via ALG | – |
+| Feb 8 | €554 | China Southern via CAN | – |
+| Feb 9 | €376 | Cathay via HKG | – |
+| **Feb 10 🏆** | **€348** | **GF 125 PVG 16:30→BAH 22:40 (B787) + GF 19 BAH 01:20→CDG 06:45+1 (A321neo)**, 1 stop 2h40, 11h10+7h25 | **£287 = €344 Gulf Air 17:00→06:45** · £305 = €365 Etihad · £315 = €377 Cathay |
+| Feb 11 | €376 | Cathay | – |
+| Feb 12 | €353 | Gulf Air | – |
+| Feb 13 | €376 | Cathay | – |
+| Feb 14 | €348 | Gulf Air | £314 = €376 Cathay · Kayak £278 = €333 |
+| Feb 15/17 | €348 | Gulf Air | – |
+| Feb 20 | €423 | Turkish via IST | – |
+| Feb 24 | €345 | Hainan | – |
+| Feb 28 | €348 | Gulf Air | – |
+| PEK→CDG Feb 10 | €423 | Turkish via IST | – |
+| CAN→CDG Feb 10 | €375 | Cathay | – |
+Skyscanner Feb month-view for PVG→PAR (cheapest per day): Feb 7 £285, Feb 19 £257, Feb 21 £248, Feb 24 £252 → **Feb 10-17 band = €345-353; absolute floor Feb 21 ≈ €297** if the return can slide.
+
+## 5) 🌍 THE ROUND-THE-WORLD ANSWER: Paris → Las Vegas → (Bay Area) → China → Paris
+### A) Cheapest = separate one-way tickets ("拆票")
+| # | Itinerary | Google | Kayak | ≈ best |
+|---|---|---|---|---|
+| **1 🥇 Path A (LAS→PVG direct-ish)** | CDG→LAS **Dec 31** (AA 755 + AA 1886) · CES Jan 6-9 · LAS→PVG **Jan 12** (AS 701 + AS 123 + GK 35) · PVG→CDG **Feb 10** (GF 125 + GF 19) | 463+423+348 = **€1,234** | 444+411+333 = **€1,188** | **€1,188–1,234** |
+| 2 Path B (via Bay Area) | CDG→LAS Dec 31 · **LAS→SFO Jan 12 Frontier €22 nonstop** · SFO→PVG Jan 12 (CZ 660 + CZ 3823) · PVG→CDG Feb 10 (GF) | 463+22+430+348 = **€1,263** | 444+23+403+333 = **€1,203** | **€1,203–1,263** |
+| 3 Path A conservative (no self-transfer, Skyscanner-carrier combos) | same dates, AC+ANA on leg 2 | – | – | **€1,284** |
+
+### B) Single-ticket (multi-city, one reservation) — Kayak chain URL probes
+| Combo | Price | Note |
+|---|---|---|
+| **🏆 CDG→LAS 12/31 · LAS→SFO 1/12 · SFO→PVG 1/14 · PVG→CDG 2/10** | **£1,104 = €1,323** | itinerary: AA 13:30→20:26 via PHL · Frontier nonstop 07:00→08:48 · CZ 23:35→09:40+2 via WUH · GF 17:00→06:45+1 via BAH ("Multiple airlines", Economy) |
+| CDG→LAS 12/31 · LAS→PVG 1/12 · PVG→CDG 2/10 | £1,146 = €1,373 | direct-to-China variant |
+| … 1/14, 1/16, 1/19 China legs | €1,373–1,385 | |
+| … 1/10 or 1/11 China leg | €1,434–1,467 | |
+| **Two round trips folded into one multi-city** (CDG→LAS 12/31, LAS→CDG 1/13, CDG→PVG 1/14, PVG→CDG 2/10) | £1,286 = €1,541 | dominated |
+| Google multi-city / Skyscanner multi-city | unusable (see §1) | |
+
+### C) The original "two round trips" structure (still valid, for comparison)
+| Structure | Price |
+|---|---|
+| CDG⇄LAS Dec 31→Jan 13 (Kayak £552 = €661; Google RT €679; Skyscanner £564 = €676) **+** PAR⇄PVG Jan 14→Feb 10 (Kayak £485 = **€581** ✅ under €600 alone; Google RT €633) | **≈ €1,242 (Kayak) / €1,312 (Google)** |
+| Split of the same: CDG→LAS €463 + LAS→CDG **Jan 13 €266 (JetBlue B6 278 + B6 348)** + CDG→PVG + PVG→CDG €348 | worse than the RT |
+
+**⇒ WINNER for the whole requirement: €1,188–1,234 — the one-way-split round-the-world (Path A). Bay Area variant is €1,203–1,263 and only worth it for the SFO stopover; the cheapest single-ticket RTW is €1,323.**
+
+## 6) 🧱 Why €600 total is not in this market (evidence, restated at correct FX)
+| Floor (arr. ≤ Jan 4, CES covered) | Best price today |
+|---|---|
+| CES trip alone, **any** European city | **€627** Dublin (Dec 28→Jan 11, Kayak £523) → €657-666 with the Paris feeder · **Paris €661** |
+| China trip alone (PAR⇄PVG, Jan 14→Feb 10) | **€581** (Kayak) / €633 (Google) |
+| **Sum of both floors on incompatible dates** | **€1,208** — i.e. the €600 budget is arithmetically unreachable; €600 for the CES trip alone would need Dublin at £501 (−£22) or Paris at £501 |
+Cumulative evidence across goal turns: ~360 live price probes, 24 European origins + 12-city Dec-31 gateway sweep, 3 search engines, 8 alternate gateway/land-transfer strategies, Montreal & Iceland gateways, NYC/Denver/LAX/PHX/SFO splits, single-ticket multi-city.
+**€600 remains reachable only through a fare-drop/error fare** — monitoring continues; the Dublin floor has already moved £544→£523 (−£21) in 24h, so a −£22 move to €600-equivalent is realistic.
+
+## 7) 🎯 Action list (lowest-cost path)
+1. **Buy split**: CDG→LAS 2026-12-31 (AA 755/1886) + LAS→PVG 2027-01-12 + PVG→CDG 2027-02-10 (GF 125/19). Links below. Buy the GF leg first (€348 band is the most stable), then AA, then AS/GK.
+2. Watch for leg-1 dropping ≤ €400 (then total ≈ €1,130) and LAS→PVG ≤ €380.
+3. **CES official discounts** (real browser only, bots 403): Lufthansa Group CES portal (valid ±1 week around CES — would apply to a FRA/LH-routing leg), AF/KLM code `GME61556EU` (−10%), Delta `NY543`. Could shave €40–100 from leg 1.
+4. If one-ticket protection matters: the €1,323 Kayak multi-city (Bay Area) or €1,373 (direct PVG) are the cheapest single reservations.
+
+### Booking links (all live, 2026-11-05)
+- Leg 1: https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31 · https://www.skyscanner.net/transport/flights/CDG/LAS/261231/?adults=1&currency=GBP&locale=en-GB&market=UK · Google: `Flights from CDG to LAS on 2026-12-31 one way`
+- Leg 2: https://www.kayak.co.uk/flights/LAS-PVG/2027-01-12 · https://www.skyscanner.net/transport/flights/LAS/PVG/270112/?adults=1&currency=GBP&locale=en-GB&market=UK
+- Leg 2B (Bay Area): https://www.kayak.co.uk/flights/LAS-SFO/2027-01-12 · https://www.kayak.co.uk/flights/SFO-PVG/2027-01-12
+- Leg 3: https://www.kayak.co.uk/flights/PVG-CDG/2027-02-10 · https://www.skyscanner.net/transport/flights/PVG/CDG/270210/?adults=1&currency=GBP&locale=en-GB&market=UK
+- Single-ticket RTW: https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/LAS-SFO/2027-01-12/SFO-PVG/2027-01-14/PVG-CDG/2027-02-10/?sort=flight_price
+- Two-RT bundle: https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-13 · https://www.kayak.co.uk/flights/PAR-PVG/2027-01-14/2027-02-10
+- Dublin floor: https://www.kayak.co.uk/flights/DUB-LAS/2026-12-28/2027-01-11
