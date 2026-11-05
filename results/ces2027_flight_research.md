@@ -624,6 +624,13 @@ Target: entire CES itinerary ≤ €600. New probes this pass:
 
 ---
 
+## 🚁 Additional gateway probes (goal turn 2)
+- **Montreal YUL strategy DEAD**: AC nonstop YUL⇄LAS exists daily (AC1707/AC1271) and normally ~$238 Jan RT, but CES-week live: YUL⇄LAS RT Jan2→11 = £505 (€586) and PAR⇄YUL RT Dec30→Jan12 = £481 (€558) → total €1,144. PAR→YUL one-way €597 CES-week. Same "CES tax" everywhere.
+- **Iceland KEF⇄LAS: no service** (route inactive since 2020).
+- Every gateway tested now (direct 24 cities + alt airports + Montreal + Iceland + splits + land transfers) floors at €600+ in the CES window. Confirmed twice, ~270 probes.
+
+---
+
 ## 9) ✅ SKYSScanner LIVE DATA (fetched 2026-11-02 via Jina reader, UK market GBP; £1 ≈ €1.16)
 
 ### CDG→LAS dated one-way deals ([page](https://www.skyscanner.net/routes/cdg/lasa/paris-charles-de-gaulle-to-las-vegas.html))
