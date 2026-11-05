@@ -863,3 +863,42 @@ Cumulative evidence across goal turns: ~360 live price probes, 24 European origi
 - Single-ticket RTW: https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/LAS-SFO/2027-01-12/SFO-PVG/2027-01-14/PVG-CDG/2027-02-10/?sort=flight_price
 - Two-RT bundle: https://www.kayak.co.uk/flights/CDG-LAS/2026-12-31/2027-01-13 · https://www.kayak.co.uk/flights/PAR-PVG/2027-01-14/2027-02-10
 - Dublin floor: https://www.kayak.co.uk/flights/DUB-LAS/2026-12-28/2027-01-11
+
+## 8) 🔬 Fine-grained extension (same turn) — is the floor really the floor?
+**Leg 1, earlier departures (Google EUR one-way, arrive ≤ Jan 4 still satisfied):** Dec 20 €830 · Dec 22 €651 · Dec 24 €830 · Dec 25-27 **€533 flat** · Dec 28 €533 · Dec 29 €568 · Dec 30 €638 · **Dec 31 €463** ← still the global floor. Longer Vegas stays do **not** pay.
+**Leg 2, later China departures (Google EUR one-way LAS→PVG):** Jan 21 – · Jan 23 €603 · Jan 25 €505 · Jan 27 €505 · Jan 29 €615 · Jan 31 €505 · Feb 5 €629 → **Jan 12 €423 stays the floor**; late-Jan plateau is €505 (Korean Air 1 stop).
+**Leg 3, later China→Paris returns (Google EUR one-way PVG→CDG):** Feb 16 – · Feb 19 €353 · Feb 21 €347 · Feb 23 €376 · Feb 26 €353 · Feb 28 €348 → the **post-CNY band Feb 10–28 is flat at €345–353**; Feb 10 (= user's date) is already at the floor. Skyscanner month-view estimates dip to £248 (€297) on Feb 21 — a possible, not yet bookable-verified, extra saving.
+
+## 9) 💺 Single-ticket round-the-world (Kayak multi-city chain URL), all probes, 2026-11-05
+| Combo (all: out Dec 31 CDG→LAS) | Kayak | ≈€ | Note |
+|---|---|---|---|
+| LAS→PVG **Jan 14** · PVG→CDG Feb 10 | **£1,047** | **€1,254** | cheapest single reservation seen; ⚠️ fare classes listed as "Basic + Basic Economy + Economy Light" = **no checked bags / no seat choice**; legs: CDG 13:30→LAS 20:26 (1 stop PHL 1h37) · LAS 08:45→PVG 09:45+2 · PVG 17:00→CDG 06:45+1 (BAH) |
+| LAS→SFO Jan 13 · SFO→PVG Jan 13 · PVG→CDG Feb 10 | £1,096 | €1,313 | Bay Area variant; SFO→PVG via SGN (25h05 leg) |
+| LAS→SFO Jan 12 · SFO→PVG Jan 14 · PVG→CDG Feb 10 | £1,104 | €1,323 | itinerary detail in §5B (Frontier + CZ via WUH + GF via BAH) |
+| LAS→SFO Jan 12 · SFO→PVG Jan 12 · PVG→CDG Feb 10 | £1,108 | €1,328 | |
+| LAS→PVG Jan 12 · PVG→CDG Feb 10 | £1,146 | €1,373 | re-priced £1,146→£1,146 (stable) |
+| LAS→PVG Jan 13 · Feb 10 | £1,161 | €1,391 | |
+| LAS→SFO Jan 15 · SFO→PVG Jan 15 · Feb 10 | £1,165 | €1,396 | |
+| LAS→PVG Jan 16 / Jan 19 | €1,382 / €1,385 | | |
+| LAS→PVG Feb 12 / Feb 14 return | £1,200 / £1,197 | €1,438 / €1,434 | |
+| LAS→PVG Jan 15 · Feb 10 | £1,197 | €1,434 | |
+| out Dec 30 · LAS→PVG Jan 14 | £1,242 | €1,488 | |
+| LAS→PVG Jan 10 / Jan 11 | €1,434–1,467 | | |
+| Dublin-origin (DUB→LAS Dec 28 · LAS→PVG Jan 14 · PVG→DUB Feb 10) | £1,304 | €1,562 | ❌ multi-city does not reward the Dublin trick |
+| Two round trips inside one multi-city (CDG→LAS/LAS→CDG/CDG→PVG/PVG→CDG) | £1,286 | €1,541 | ❌ dominated |
+**Volatility warning:** the €1,254 bundle moved ±€150 between probes 20 minutes apart, and its fare family is Basic/Economy-Light. Treat any single-ticket RTW quote as **±€150** and re-check before paying; the split-one-way route (€1,188–1,234) is both cheaper and more stable.
+
+## 10) 📦 Baggage reality check on the €1,188–1,234 split (add before paying)
+| Leg | Fare family | 1st checked bag |
+|---|---|---|
+| CDG→LAS (American AA 755/1886) | economy (basic) | ~$70 ≈ €65 (AA transatlantic first bag fee) |
+| LAS→PVG (Alaska + Jetstar Japan GK 35) | ULCC-style, **self-transfer at SEA + NRT** | JV/GK bag ~¥2,000-3,000 ≈ €15-20 each segment; no protected connection |
+| PVG→CDG (Gulf Air GF 125/19) | Economy (GF 19 A321neo leg) | 20-30 kg **included** on GF |
+All-bags realistic total ≈ **€1,290–1,330** (still far below the €1,242 two-RT bundle once the bundle's own bag fees are added).
+Rule of thumb: **if you need 2+ checked bags, buy the two-RT bundle (Kayak €1,242) or the €1,323 single-ticket RTW instead** — they price closer once bags are counted.
+
+## 11) 🤖 "持续推送" is now automated (this turn's infra)
+- `tools/monitor.py` — fixed itineraries, Skyscanner + Kayak live floors, **live GBP→EUR FX** (no more 1.16 error), derived totals (RTW split / Bay Area / two-RT bundle / single-ticket RTW), drop detection (≥€15 → alert line).
+- `tools/run_monitor.sh` — runs it, then `git add/commit/push` to this repo.
+- **Installed cron:** `15 8,20 * * *` (twice daily, local time) → this file `results/price_track.md` grows a comparable row per day and is pushed automatically. Log: `~/flight_monitor.log`.
+Buy triggers wired into the track: leg 1 ≤ €400, leg 2 ≤ €380, leg 3 ≤ €320 → RTW split ≈ €1,100; CES RT ≤ €540 (Dublin £451) → the €600 zone.
