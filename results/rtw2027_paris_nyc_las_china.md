@@ -112,6 +112,7 @@
 | ④ PVG→PAR 2/10（GF / 东航促销） | €328 | **≤ €290** | −38 → 三项同时 **≈ €1,006** |
 | ② NYC→LAS 12/31（Frontier / JetBlue 促销） | €149 | **≤ €110** | −39 → 四项全中 **≈ €967 ✅** |
 | ③a LAS→LAX 1/12 | €17 | ≤ €25（已很低，忽略） | – |
+**为什么 ① 很难再跌**：Norse Atlantic 已把纽约航线（CDG-JFK、LGW/FCO-JFK）从 2026-27 冬季时刻表里删除（10 月 25 日后不再飞纽约，只保 LGW-MCO），所以巴黎→纽约的廉价直飞基本只剩 **French bee**。它的往返价地板在 €447-449、单程报价通 $333（≈€315）一带，所以 €340 已接近地板，想跌到 €250 只能等闪促（参考：https://www.kayak.com/flight-routes/Paris-Orly-ORY/New-York-Newark-EWR ）。
 盯盘现状：`tools/monitor.py` 已把这四段 + 单张多程链加入每日两次抓取（cron `15 8,20 * * *` → `tools/run_monitor.sh`，自动 commit+push）；任一段比上次下降 ≥€15 会在 `results/price_track.md` 写 `DROP` 行；命中触发价会写 `TRIGGER` 行。**下单顺序建议：先 ④（回程最稳、波动最大先锁），再 ①，然后 ③b，最后 ③a/②（美国境内段临近出发才降价）。**
 
 ---
