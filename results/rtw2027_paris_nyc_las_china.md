@@ -8,7 +8,7 @@
 | # | 方案 | 明细 | 价格 | 保障 |
 |---|---|---|---|---|
 | **R1 🥇** | **4 张单程拆票（每段都是正常票）** | ① BF 720 直飞 12/24 · ② Frontier 1 停 12/31 · ③ Frontier LAS→LAX 1/12 **+** 四川航空 3U 3838 + 3U 5252（LAX→天府→浦东）1/12 · ④ Gulf Air GF 125 + GF 19 2/10 | **€1,195**（三站最低价拼合）<br>**€1,289**（Google 同结构价） | ✅ 每段单独出票、联程段内部有保障；只有 ③a→③b 之间需自提行李重值机（LAX 隔 13h，可接受） |
-| **R2 🥈** | **一张票多程（Kayak multi-city，非 hack）** | 同一预订：PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-LAX 1/12 · LAX-PVG 1/12 · PVG-PAR 2/10 | **€1,262**（£1,053） | ✅ 一次预订、一家负责；比拆票贵 €67，比 R1 的 Google 价便宜 €27 |
+| **R2 🥈** | **一张票多程（Kayak multi-city，非 hack 项 = "Best" 档）** | 同一预订：BF 720 ORY→EWR 12/24 · JFK→LAS（经 MSP）12/31 · LAS→LAX 1/12 · 3U LAX→天府→PVG 1/12 · CX PVG→HKG→CDG 2/10（19:05→07:45+1） | **€1,444**（£1,205） | ✅ 一次预订、一家负责；比拆票贵 €250。同搜索里 "Cheapest £1,095 = €1,312" 与早些时候的 £1,053 = €1,262 都是 **self-transfer hack**（末段落 **博韦 BVA**，西安/维也纳/贝加莫自转） |
 | R3 | 北京到达版（拆票） | ① 340 + ② 149 + ③a 17 + **3U 3838 + 3U 天府→北京 1/12 €365** + **PEK→PAR 2/11 CX €418** | **€1,289** | ✅ 比上海版贵 €94（北京回程贵） |
 | R4 | 不进洛杉矶、直接从维加斯飞中国 | ① 340 + ② 149 + **UA/ANA 联程 LAS→PVG €484-575** + ④ 328 | **€1,301–1,392** | ✅ 全联程，最省心（只 3 张票） |
 | R5 | 极限 hack 价（**不建议**） | Kayak "Self-transfer hack"：② 28h19（€138）+ ③ Frontier+川航经天府 35h35（€401） | €1,215–1,252 | ❌ 自转不保障；同结构正常价只贵几十欧，没必要买 |
@@ -20,7 +20,7 @@
 2. **① 的最低点不是 12/23 而是 12/24**：French bee ORY→EWR 直飞 12/24 = Kayak €340 / Skyscanner €346 / Google €352（12/23 €381-392，12/25 €388，12/26 €459）。
 3. **② 的最低点是 12/31**（12/31 Frontier 经 DFW = Google €152 / Kayak €149），比 1/3-1/4 便宜 €10-40；跨年夜在维加斯过夜反而省钱。
 4. **③ 的真正地板是四川航空 3U 3838（LAX→天府 TFU→浦东/北京）**：1/12 = Kayak €361 / Skyscanner €364，比国泰低 €50、比 LAS 直联程低 €120+。Google 不销售 3U，所以只能从 Kayak/Skyscanner/OTA 或 3U 官网下单。
-5. 上一轮写的"单张多程最便宜 €1,360"那条其实是 hack 组合（末段落 **博韦 BVA**，离巴黎 80km，维也纳自转）；本轮 12/24 版非 hack 单张多程 = **€1,262**。
+5. 上一轮写的"单张多程最便宜 €1,360"那条其实是 hack 组合（末段落 **博韦 BVA**，离巴黎 80km，维也纳自转）；本轮 12/24 版非 hack（Best 档）单张多程 = **€1,444**，Cheapest 档 €1,262-1,312 仍是 hack。
 
 ---
 
@@ -41,7 +41,7 @@
 ## 2) 备选结构
 | 组合 | 明细（① €340 + ② €149 固定） | 合计 |
 |---|---|---|
-| **R2 单张多程 🥈** | Kayak 多程：PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-LAX 1/12 · LAX-PVG 1/12 · PVG-PAR 2/10 | **£1,053 = €1,262**（该搜索"Best"档 €1,444；hack 档不再列出） |
+| **R2 单张多程 🥈** | Kayak 多程：PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-LAX 1/12 · LAX-PVG 1/12 · PVG-PAR 2/10 | **非 hack（Best 档）= €1,444**；"Cheapest" 档 €1,262-1,312 全部是 hack（末段 BVA + 西安/维也纳/贝加莫自转） |
 | **R3 北京到达** | ③a €17 + **3U 3838 + 天府→PEK（1/12，21:30→14:10+2）€364-365** + **PEK→PAR 2/11 CX 1 停 €418** | **€1,289** |
 | **R4 全程从 LAS 飞** | **UA 10:30→LAX(0h46)→PVG 18:55+1 €567 Basic** / **UA+ANA 2 停 €484** / **AC+NH 经 YVR €575** | **€1,301–1,392** |
 | **走湾区（SFO）** | **Frontier LAS→SFO 07:00→08:48 €22-24** + **SFO→PVG 1/12 CZ 经武汉 €399** 或 **1/13 CX 经 HKG €453** + ④ €328 | **€1,240–1,294**（比 LA 版略贵，因为 SFO→中国地板更高） |
@@ -81,14 +81,14 @@
 ## 4) 单张多程（multi-city）网格 — Kayak 链式 URL
 | 结构 | 正常票最低价 | hack 价（不保障，仅记录） |
 |---|---|---|
-| **PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-LAX 1/12 · LAX-PVG 1/12 · PVG-PAR 2/10** | **£1,053 = €1,262 🏆** | – |
+| **PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-LAX 1/12 · LAX-PVG 1/12 · PVG-PAR 2/10** | **€1,444（Best 档，BF+JFK→LAS/LAS-LAX/3U/CX）🏆** | €1,262-1,312（hack：末段落 BVA，西安/维也纳/贝加莫自转） |
 | PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-PVG 1/12 · PVG-PAR 2/10 | €1,414 | – |
 | PAR-NYC 12/24 · NYC-LAS 12/31 · LAS-LAX 1/12 · LAX-PEK 1/12 · PEK-PAR 2/11 | **€1,372-1,378** | – |
 | PAR-NYC 12/23 · NYC-LAS 1/3 · LAS-LAX 1/12 · LAX-PVG 1/13 · PVG-PAR 2/10 | €1,414 | €1,360（末段落 BVA + 维也纳自转） |
 | 同结构走 SFO | €1,444 | €1,396 |
 | 其他 7 组（12/26、12/28、12/30、12/31 出发；PVG/PEK；SEA 绕飞） | €1,444–1,806 | €1,396–1,701 |
 | 只前两段一张票（PAR-NYC 12/24 + NYC-LAS 12/31） | €573（=拆票 €489 + €84，不如拆） | – |
-**结论：拆票 €1,195 < 单张多程 €1,262**；要"一次预订、一家负责"就买 €1,262 那条（选非 hack 项）。
+**结论：拆票 €1,195 < 单张多程 €1,444（非 hack 档）**。想要"一次预订、一家负责"就买 Best 档 €1,444；Cheapest 档看起来便宜 €150-350，但那是自转 hack，最后一段甚到飞到 **博韦 BVA**（离巴黎 80km），不建议。
 
 ---
 
@@ -127,7 +127,7 @@
 | ③a→③b 之间（LAX） | 自提重值机 | 中间 13h，可出机场 | **不同票**：建议 ③a 买可改签或留足缓冲（已在 LA 留 13h） |
 | ④ Gulf Air GF 125/19 | Economy Light/Classic | **20-30kg 免费** | 无自转 |
 **含 1 件托运的真实到手**：拆票 ≈ **€1,335**（+French bee €35 +Frontier 两段 ≈ €100；3U/GF 已含）；R2 单张多程 Basic 舱加行李后 ≈ **€1,360-1,400**。
-**最省心的选择**：R4（€1,301-1,392，三张票全联程）或 R2 单张多程（€1,262，一次预订）。
+**最省心的选择**：R4（€1,301-1,392，三张票全联程）或 R2 单张多程 Best 档（€1,444，一次预订）。
 
 ---
 
@@ -137,6 +137,6 @@
 - ③a：https://www.skyscanner.net/transport/flights/LAS/LAX/270112/?adults=1&currency=GBP&locale=en-GB&market=UK
 - ③b：https://www.kayak.co.uk/flights/LAX-PVG/2027-01-12 · https://www.skyscanner.net/transport/flights/LAX/PVG/270112/?adults=1&currency=GBP&locale=en-GB&market=UK · 北京版 https://www.kayak.co.uk/flights/LAX-PEK/2027-01-12
 - ④：https://www.kayak.co.uk/flights/PVG-PAR/2027-02-10 · https://www.skyscanner.net/transport/flights/PVG/CDG/270210/?adults=1&currency=GBP&locale=en-GB&market=UK
-- 单张多程（R2 €1,262）：https://www.kayak.co.uk/flights/PAR-NYC/2026-12-24/NYC-LAS/2026-12-31/LAS-LAX/2027-01-12/LAX-PVG/2027-01-12/PVG-PAR/2027-02-10/?sort=flight_price
+- 单张多程（R2 Best 档 €1,444）：https://www.kayak.co.uk/flights/PAR-NYC/2026-12-24/NYC-LAS/2026-12-31/LAS-LAX/2027-01-12/LAX-PVG/2027-01-12/PVG-PAR/2027-02-10/?sort=flight_price
 - 川航时刻参考：3U 3838 LAX 21:30 → TFU 05:50+2（周二/五/日，A350-900）https://info.flightmapper.net/route/Sichuan_Airlines_3U_LAX_TFU · TFU→PVG 08:00→10:25（3U 5252 = MU 5404）
 - 自动盯盘：`tools/monitor.py`（cron 8:15 / 20:15），历史序列见 `results/price_track.md` 的 "Structure B" 表。

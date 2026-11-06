@@ -90,6 +90,20 @@ def kayak_price(text: str):
     return min(vals) if vals else None
 
 
+def kayak_price_nohack(text: str):
+    """Cheapest Kayak result that is NOT a 'Self-transfer hack' bundle (unprotected combos)."""
+    if not text:
+        return None
+    vals = []
+    for b in re.split(r"Go to result details", text)[1:12]:
+        if "Self-transfer hack" in b:
+            continue
+        pr = [to_int(x) for x in re.findall(GBP + r"([\d,]+)", b) if to_int(x) > 100]
+        if pr:
+            vals.append(pr[-1])
+    return min(vals) if vals else kayak_price(text)
+
+
 def sk_price(text: str):
     if not text:
         return None
@@ -120,7 +134,11 @@ def main() -> int:
         cells[f"ky.{rt}.{dt}"] = v
         log(f"  ky {rt} {dt} = GBP{v}")
 
-    for tag, path in KAY_MULTI + KAY_MULTI_B:
+    for tag, path in KAY_MULTI_B:
+        v = kayak_price_nohack(fetch(f"https://www.kayak.co.uk/flights/{path}/?sort=flight_price"))
+        cells[f"mc.{tag}"] = v
+        log(f"  mc {tag} (no-hack) = GBP{v}")
+    for tag, path in KAY_MULTI:
         v = kayak_price(fetch(f"https://www.kayak.co.uk/flights/{path}/?sort=flight_price"))
         cells[f"mc.{tag}"] = v
         log(f"  mc {tag} = GBP{v}")
@@ -174,7 +192,7 @@ def main() -> int:
             f"{s(rtwB_3b)} | {s(rtwB_4)} | {s(rtwB_split)} | {s(rtwB_full)} | "
             f"{s(eur('mc.RTW_NYC_lax'))} |")
     headerB = ("| Date | FX | ① PAR→NYC 12/24 | ② NYC→LAS 12/31 | ③a LAS→LAX 1/12 | ③b LAX→PVG 1/12 (3U) | "
-               "④ PVG→PAR 2/10 | split 4 legs | split 5 legs (= total) | single ticket multi-city |")
+               "④ PVG→PAR 2/10 | split 4 legs | split 5 legs (= total) | single ticket multi-city (no-hack) |")
 
     prev_rows, prev_rowsB = [], []
     if OUT.exists():

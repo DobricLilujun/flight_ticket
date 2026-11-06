@@ -16,6 +16,5 @@ Itineraries are fixed so rows are comparable day to day. Run daily via cron (`to
 
 | Date | FX | ① PAR→NYC 12/24 | ② NYC→LAS 12/31 | ③a LAS→LAX 1/12 | ③b LAX→PVG 1/12 (3U) | ④ PVG→PAR 2/10 | split 4 legs | split 5 legs (= total) | single ticket multi-city |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-11-06 | fx 1.1982 | EUR340 | EUR149 | EUR17 | EUR361 | EUR330 | EUR1180 | EUR1197 | EUR1262 |
 
 **Alerts this run:** DROP 367 → 343; DROP 1317 → 1293; DROP 778 → 757; DROP 603 → 580; DROP 1278 → 1255
