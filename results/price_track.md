@@ -14,4 +14,3 @@ Itineraries are fixed so rows are comparable day to day. Run daily via cron (`to
 
 | Date | FX | ① PAR→NYC 12/23 | ② NYC→LAS 1/4 | ③ LAS→PVG 1/12 | ③b LAX→PEK 1/13 | ④ PVG→PAR 2/10 | RTW-B split (best of sites) | RTW-B via LAX | RTW-B single ticket |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-11-06 | fx 1.1982 | EUR381 | EUR138 | EUR401 | EUR385 | EUR328 | EUR1248 | EUR1250 | EUR1360 |
